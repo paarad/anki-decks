@@ -1,0 +1,4945 @@
+[
+  {
+    "section": "Vocabulaire",
+    "question": "Un BIEF est :",
+    "answers": [
+      "Un son bref.",
+      "Une rivière calme.",
+      "Une partie de canal entre 2 écluses."
+    ],
+    "correct": [
+      "Une partie de canal entre 2 écluses."
+    ]
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "En fluvial, le terme MOUILLAGE désigne :",
+    "answers": [
+      "la profondeur.",
+      "un haut fond.",
+      "le stationnement à l'ancre ou sur une bouée.",
+      "la mise à l'eau d'un bateau."
+    ],
+    "correct": [
+      "la profondeur."
+    ]
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Quelle est la longueur du domaine fluvial français ?",
+    "answers": [
+      "2500 km.",
+      "4500 km.",
+      "8500 km.",
+      "12500 km."
+    ],
+    "correct": [
+      "8500 km."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_vocabulaire/q3.jpg"
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "la partie du bateau désignée par le trait rouge est :",
+    "answers": [
+      "le tirant d'air.",
+      "le franc bord.",
+      "la hauteur."
+    ],
+    "correct": [
+      "le franc bord."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_vocabulaire/Q4.png"
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "En voyant cette écluse. Dans quel sens va le courant ?",
+    "answers": [
+      "A - De droite à gauche.",
+      "B - De gauche à droite."
+    ],
+    "correct": [
+      "A - De droite à gauche."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_vocabulaire/Q5.png"
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Qu'est-ce qu'un bajoyer ?",
+    "answers": [
+      "une pile de pont.",
+      "une porte d'écluse.",
+      "un mur latéral d'écluse."
+    ],
+    "correct": [
+      "un mur latéral d'écluse."
+    ]
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Qu'est-ce que le chômage ?",
+    "answers": [
+      "Arrêt de la navigation pour réparation du canal.",
+      "Arrêt de la navigation à cause de crue.",
+      "Fermeture des écluses le dimanche."
+    ],
+    "correct": [
+      "Arrêt de la navigation pour réparation du canal."
+    ]
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Que signifie le terme ATTERRISSEMENT ?",
+    "answers": [
+      "L'arrivée sur la berge.",
+      "le dépôt de matériaux alluvionnaires (sable, graviers..) par la rivière.",
+      "l'échouage sur un banc de sable."
+    ],
+    "correct": [
+      "le dépôt de matériaux alluvionnaires (sable, graviers..) par la rivière."
+    ]
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Un bateau qui navigue dans le même sens que le courant est :",
+    "answers": [
+      "avalant.",
+      "montant."
+    ],
+    "correct": [
+      "avalant."
+    ]
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Qu'est-ce que l'étiage ?",
+    "answers": [
+      "les plus hautes eaux.",
+      "les eaux moyennes.",
+      "les plus basses eaux."
+    ],
+    "correct": [
+      "les plus basses eaux."
+    ]
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "La définition d'une menue embarcation précise que sa longueur mesure :",
+    "answers": [
+      "moins de 10m.",
+      "moins de 15 mètres.",
+      "moins de 20 mètres.",
+      "moins de 24 mètres."
+    ],
+    "correct": [
+      "moins de 20 mètres."
+    ]
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Que signifie le terme CAJOLAGE.",
+    "answers": [
+      "Laisser reculer le bateau dans le courant en tenant l'avant amarré.",
+      "Prendre soin de son bateau.",
+      "Naviguer très près de la berge."
+    ],
+    "correct": [
+      "Laisser reculer le bateau dans le courant en tenant l'avant amarré."
+    ]
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Le terme SASSEMENT indique :",
+    "answers": [
+      "le passage d'une arche de pont.",
+      "le passage d'une écluse.",
+      "le remplissage d'une écluse.",
+      "le vidage d'une écluse."
+    ],
+    "correct": [
+      "le passage d'une écluse."
+    ]
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Que signifie le terme TRÉMATAGE ?",
+    "answers": [
+      "Dépassement d'un autre bateau.",
+      "Croisement d'un autre bateau.",
+      "Enlever le mât d'un voilier."
+    ],
+    "correct": [
+      "Dépassement d'un autre bateau."
+    ]
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Le bief de partage est situé :",
+    "answers": [
+      "sur la ligne de partage des eaux.",
+      "sur l'aval.",
+      "entre les eaux maritimes et les eaux fluviales."
+    ],
+    "correct": [
+      "sur la ligne de partage des eaux."
+    ]
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Qu'est-ce qu'un BOLLARD ?",
+    "answers": [
+      "une protection de bateau.",
+      "une protection d'écluse.",
+      "une bitte d'amarrage."
+    ],
+    "correct": [
+      "une bitte d'amarrage."
+    ]
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Qu'est-ce qu'un automoteur ?",
+    "answers": [
+      "Un pousseur.",
+      "Une péniche.",
+      "Un bateau transportant des automobiles."
+    ],
+    "correct": [
+      "Une péniche."
+    ]
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Peut-on passer toute écluse 24H/24H ?",
+    "answers": [
+      "Oui.",
+      "Non."
+    ],
+    "correct": [
+      "Non."
+    ]
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Qu'est-ce qu'un épi ?",
+    "answers": [
+      "Une voie qui se divise en 2.",
+      "Une voie qui se divise en 3.",
+      "Un ouvrage qui s'avance de la berge vers le milieu de la rivière."
+    ],
+    "correct": [
+      "Un ouvrage qui s'avance de la berge vers le milieu de la rivière."
+    ]
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Comment nomme-t-on ces pieux de bois assemblés par trois ?",
+    "answers": [
+      "Un trident.",
+      "Un tripode.",
+      "Un duc d'albe.",
+      "Un bollard."
+    ],
+    "correct": [
+      "Un duc d'albe."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_vocabulaire/Q22.jpg"
+  },
+  {
+    "section": "Signalisation 1",
+    "question": "Ce panneau signale :",
+    "answers": [
+      "interdiction de croiser.",
+      "interdiction de dépasser.",
+      "interdiction de croiser et dépasser."
+    ],
+    "correct": [
+      "interdiction de dépasser."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation1/Q1.PNG"
+  },
+  {
+    "section": "Signalisation 1",
+    "question": "Ce panneau indique :",
+    "answers": [
+      "une section désafectée.",
+      "l'interdiction de faire des remous.",
+      "l'interdiction de passer.",
+      "écluse fermée."
+    ],
+    "correct": [
+      "l'interdiction de passer."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation1/Q2.PNG"
+  },
+  {
+    "section": "Signalisation 1",
+    "question": "Ce panneau vous indique :",
+    "answers": [
+      "Recommandation d'être vigilant à l'approche d'un barrage.",
+      "Aire de stationnement réservée uniquement aux automoteurs.",
+      "Fin d'interdiction ou de restriction.",
+      "Aire de stationnement réservée à tous les bateaux ne transportant pas de matières dangereuses."
+    ],
+    "correct": [
+      "Aire de stationnement réservée à tous les bateaux ne transportant pas de matières dangereuses."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation1/pf254.png"
+  },
+  {
+    "section": "Signalisation 1",
+    "question": "Pouvez-vous passer sous l'arche de pont qui montre ce panneau ?",
+    "answers": [
+      "Oui, le trafic est à sens unique sous cette arche.",
+      "Oui, le trafic est à double sens sous cette arche.",
+      "Non."
+    ],
+    "correct": [
+      "Oui, le trafic est à double sens sous cette arche."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation1/Q3.PNG"
+  },
+  {
+    "section": "Signalisation 1",
+    "question": "Obligation de :",
+    "answers": [
+      "s'arrêter.",
+      "de rester à droite.",
+      "d'émettre un signal sonore."
+    ],
+    "correct": [
+      "d'émettre un signal sonore."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation1/Q4.PNG"
+  },
+  {
+    "section": "Signalisation 1",
+    "question": "Il s'agit d'une :",
+    "answers": [
+      "Interdiction de passer hors de l'espace indiqué.",
+      "Recommandation de passer dans l'espace indiqué.",
+      "Interdiction de passer."
+    ],
+    "correct": [
+      "Interdiction de passer hors de l'espace indiqué."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation1/Q5.PNG"
+  },
+  {
+    "section": "Signalisation 1",
+    "question": "Ce panneau vous :",
+    "answers": [
+      "oblige de vous diriger dans le sens de la flèche.",
+      "interdit de vous diriger dans le sens de la flèche.",
+      "recommande de vous diriger dans le sens de la flèche.",
+      "indique de vous diriger dans le sens de la flèche."
+    ],
+    "correct": [
+      "recommande de vous diriger dans le sens de la flèche."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation1/Q8.PNG"
+  },
+  {
+    "section": "Signalisation 1",
+    "question": "La nuit, sur une arche de pont, ces feux fixes indiquent :",
+    "answers": [
+      "passe obligatoire.",
+      "passe recommandée dans les 2 sens.",
+      "passe recommandée dans 1 seul sens."
+    ],
+    "correct": [
+      "passe recommandée dans 1 seul sens."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation1/Q9.PNG"
+  },
+  {
+    "section": "Signalisation 1",
+    "question": "Ce signal indique :",
+    "answers": [
+      "une autorisation de passer.",
+      "recommandation de se tenir au milieu du chenal.",
+      "passe recommandée."
+    ],
+    "correct": [
+      "une autorisation de passer."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation1/Q10.PNG"
+  },
+  {
+    "section": "Signalisation 1",
+    "question": "Ce signal indique que :",
+    "answers": [
+      "la voie rencontrée est affluente.",
+      "la voie est affluente de celle rencontrée."
+    ],
+    "correct": [
+      "la voie est affluente de celle rencontrée."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation1/Q11.PNG"
+  },
+  {
+    "section": "Signalisation 1",
+    "question": "Ce panneau oblige :",
+    "answers": [
+      "de se diriger sur la gauche de chenal.",
+      "de tenir le côté du chenal situé à bâbord.",
+      "de croiser le chenal sur bâbord."
+    ],
+    "correct": [
+      "de tenir le côté du chenal situé à bâbord."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation1/Q13.PNG"
+  },
+  {
+    "section": "Signalisation 1",
+    "question": "Ce signal lumineux indique :",
+    "answers": [
+      "l'interdiction d'entrer au port ou dans la voie affluente situé dans le sens de la flèche.",
+      "l'obligation de se diriger dans le sens de la flèche.",
+      "l'obligation de naviguer sur la droite du chenal."
+    ],
+    "correct": [
+      "l'interdiction d'entrer au port ou dans la voie affluente situé dans le sens de la flèche."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation1/Q14.PNG"
+  },
+  {
+    "section": "Signalisation 1",
+    "question": "Ce panneau est :",
+    "answers": [
+      "une interdiction de dépasser.",
+      "une obligation de faire des remous.",
+      "une interdiction de faire des remous."
+    ],
+    "correct": [
+      "une interdiction de faire des remous."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation1/Q15.PNG"
+  },
+  {
+    "section": "Signalisation 1",
+    "question": "Qu'indique ce panneau ?",
+    "answers": [
+      "Aire de stationnement réservée aux pousseurs.",
+      "Aire de stationnement réservée aux automoteurs.",
+      "Aire de stationnement réservée aux remorqueurs."
+    ],
+    "correct": [
+      "Aire de stationnement réservée aux pousseurs."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation1/pf253.png"
+  },
+  {
+    "section": "Signalisation 1",
+    "question": "Ces 2 carrés jaunes indiquent :",
+    "answers": [
+      "passe interdite.",
+      "passe recommandée dans un seul sens.",
+      "passe recommandée dans les 2 sens."
+    ],
+    "correct": [
+      "passe recommandée dans un seul sens."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation1/Q17.PNG"
+  },
+  {
+    "section": "Signalisation 1",
+    "question": "Ce signal veut dire :",
+    "answers": [
+      "le chenal est éloigné de 25m de la rive.",
+      "le chenal fait 25m de large.",
+      "Obligation de prendre la gauche du chenal dans 25m."
+    ],
+    "correct": [
+      "le chenal est éloigné de 25m de la rive."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation1/Q18.PNG"
+  },
+  {
+    "section": "Signalisation 1",
+    "question": "Ceci est un panneau :",
+    "answers": [
+      "d'interdiction de dépassement.",
+      "d'interdiction de croisement.",
+      "d'interdiction de croisement et de dépassement."
+    ],
+    "correct": [
+      "d'interdiction de croisement et de dépassement."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation1/Q19.PNG"
+  },
+  {
+    "section": "Signalisation 1",
+    "question": "À la sortie d'un port, ces feux indiquent :",
+    "answers": [
+      "Danger grave.",
+      "Bâtiment sortant, interdiction d'entrer.",
+      "Bâtiment sortant, je dois lui faciliter sa sortie : je modifie ma route / ma vitesse."
+    ],
+    "correct": [
+      "Bâtiment sortant, je dois lui faciliter sa sortie : je modifie ma route / ma vitesse."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation1/Q21.GIF"
+  },
+  {
+    "section": "Signalisation 2",
+    "question": "Simple plaisancier, pouvez-vous stationner dans la zone marquée par ce panneau ?",
+    "answers": [
+      "Oui.",
+      "Non, aire réservée aux automoteurs transportant des matières inflammables.",
+      "Non, aire réservée aux pousseurs transportant des matières dangereuses."
+    ],
+    "correct": [
+      "Non, aire réservée aux automoteurs transportant des matières inflammables."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation2/pf255.png"
+  },
+  {
+    "section": "Signalisation 2",
+    "question": "Que signifie ce panneau ?",
+    "answers": [
+      "Interdiction de faire des remous.",
+      "Autorisation de faire des remous.",
+      "Obligation de naviguer bien à plat.",
+      "Obligation de s'arrêter dans certaines conditions."
+    ],
+    "correct": [
+      "Obligation de s'arrêter dans certaines conditions."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation2/Q3.PNG"
+  },
+  {
+    "section": "Signalisation 2",
+    "question": "Vous voyez ces deux feux. Il s'agit :",
+    "answers": [
+      "interdiction totale de passer, faire demi-tour.",
+      "interdiction de passer, mais se préparer à mettre en marche.",
+      "obligation de se diriger vers le feu vert."
+    ],
+    "correct": [
+      "interdiction de passer, mais se préparer à mettre en marche."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation2/Q6.png"
+  },
+  {
+    "section": "Signalisation 2",
+    "question": "Une arche de pont montre ces signaux. Qu'y-a-t-il sur le côté opposé de cette arche ?",
+    "answers": [
+      "Rien.",
+      "Un carré jaune.",
+      "Deux carrés jaunes.",
+      "Un rectangle Rouge-Blanc-Rouge."
+    ],
+    "correct": [
+      "Un rectangle Rouge-Blanc-Rouge."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation2/Q9.PNG"
+  },
+  {
+    "section": "Signalisation 2",
+    "question": "Pouvez-vous dépasser un autre bateau ?",
+    "answers": [
+      "Oui.",
+      "Non."
+    ],
+    "correct": [
+      "Non."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation2/Q11.PNG"
+  },
+  {
+    "section": "Signalisation 2",
+    "question": "Ces feux indiquent :",
+    "answers": [
+      "une écluse en préparation.",
+      "une recommandation de se diriger dans le sens du feu fixe vers le feu rythmé.",
+      "un bâtiment qui sort du port."
+    ],
+    "correct": [
+      "une recommandation de se diriger dans le sens du feu fixe vers le feu rythmé."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation2/Q12.GIF"
+  },
+  {
+    "section": "Signalisation 2",
+    "question": "Ce panneau interdit :",
+    "answers": [
+      "les hélicoptères.",
+      "de faire marche arrière.",
+      "de virer.",
+      "de faire des ronds dans l'eau."
+    ],
+    "correct": [
+      "de virer."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation2/Q13.PNG"
+  },
+  {
+    "section": "Signalisation 2",
+    "question": "La voie :",
+    "answers": [
+      "rencontrée est affluente.",
+      "suivie est affluente.",
+      "est barrée à droite.",
+      "est barrée à gauche."
+    ],
+    "correct": [
+      "rencontrée est affluente."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation2/Q14.PNG"
+  },
+  {
+    "section": "Signalisation 2",
+    "question": "Quelle est la définition de ce panneau ?",
+    "answers": [
+      "Interdiction de fumer.",
+      "Interdiction d'utiliser une lumière ou du feu non protégés.",
+      "Interdiction de jouer avec des allumettes.",
+      "Transport de matières inflammables ou explosives."
+    ],
+    "correct": [
+      "Interdiction de fumer.",
+      "Interdiction d'utiliser une lumière ou du feu non protégés."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/pf256.jpg"
+  },
+  {
+    "section": "Signalisation 2",
+    "question": "Il s'agit :",
+    "answers": [
+      "d'une recommandation de se diriger à gauche.",
+      "d'une obligation de se diriger à gauche.",
+      "d'une obligation de croiser le chenal sur bâbord."
+    ],
+    "correct": [
+      "d'une obligation de se diriger à gauche."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation2/Q16.PNG"
+  },
+  {
+    "section": "Signalisation 2",
+    "question": "Ce panneau :",
+    "answers": [
+      "interdit de suivre un autre bâtiment.",
+      "interdit de dépasser pour tous les bâtiments.",
+      "interdit de dépasser pour les convois."
+    ],
+    "correct": [
+      "interdit de dépasser pour les convois."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation2/Q18.PNG"
+  },
+  {
+    "section": "Balisage",
+    "question": "Ce bateau est :",
+    "answers": [
+      "avalant.",
+      "montant."
+    ],
+    "correct": [
+      "montant."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_balisage/Q1.PNG"
+  },
+  {
+    "section": "Balisage",
+    "question": "Par définition, qu'est-ce que la rive droite ?",
+    "answers": [
+      "C'est la rive qui est à ma droite quand je suis dans le sens du courant, ou dans le sens amont vers aval.",
+      "C'est la rive qui est toujours à ma droite, que je sois montant ou avalant."
+    ],
+    "correct": [
+      "C'est la rive qui est à ma droite quand je suis dans le sens du courant, ou dans le sens amont vers aval."
+    ]
+  },
+  {
+    "section": "Balisage",
+    "question": "Il s'agit d'une marque :",
+    "answers": [
+      "de rive droite.",
+      "de rive gauche.",
+      "de bifurcation."
+    ],
+    "correct": [
+      "de rive gauche."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_balisage/Q2.PNG"
+  },
+  {
+    "section": "Balisage",
+    "question": "Quelle est la définiton de la rive gauche ?",
+    "answers": [
+      "C'est la rive qui est à ma gauche, peu importe si je suis avalant ou montant.",
+      "C'est la rive qui est à gauche quand on est avalant (dans le sens du courant)."
+    ],
+    "correct": [
+      "C'est la rive qui est à gauche quand on est avalant (dans le sens du courant)."
+    ]
+  },
+  {
+    "section": "Balisage",
+    "question": "Sur une rivière, un fleuve ou un canal, le sens conventionnel qui a servi à donner leurs noms aux rives droites et gauches est :",
+    "answers": [
+      "le sens montant : de la mer vers la \"montagne\".",
+      "le sens avalant : de la \"montagne\" vers la mer."
+    ],
+    "correct": [
+      "le sens avalant : de la \"montagne\" vers la mer."
+    ]
+  },
+  {
+    "section": "Balisage",
+    "question": "Vous êtes avalant :",
+    "answers": [
+      "je laisse à droite.",
+      "je laisse à gauche.",
+      "je laisse indifféremment à droite ou à gauche."
+    ],
+    "correct": [
+      "je laisse à droite."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_balisage/Q3.GIF"
+  },
+  {
+    "section": "Balisage",
+    "question": "Cette balise marque :",
+    "answers": [
+      "la rive droite.",
+      "la rive gauche.",
+      "un danger isolé.",
+      "une bifurcation."
+    ],
+    "correct": [
+      "une bifurcation."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_balisage/Q4.PNG"
+  },
+  {
+    "section": "Balisage",
+    "question": "Ce feu indique :",
+    "answers": [
+      "la rive droite.",
+      "la rive gauche.",
+      "une bifurcation du chenal.",
+      "un danger isolé."
+    ],
+    "correct": [
+      "une bifurcation du chenal."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_balisage/Q7.GIF"
+  },
+  {
+    "section": "Balisage",
+    "question": "Ce panneau signifie :",
+    "answers": [
+      "Passe recommandée dans les 2 sens.",
+      "Passe recommandée dans un seul sens.",
+      "Le chenal passe de la rive droite vers la rive gauche.",
+      "Le chenal passe de la rive gauche vers la rive droite."
+    ],
+    "correct": [
+      "Le chenal passe de la rive droite vers la rive gauche."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_balisage/pf241.png"
+  },
+  {
+    "section": "Balisage",
+    "question": "Cette marque désigne :",
+    "answers": [
+      "un danger isolé.",
+      "un banc médian.",
+      "la rive droite.",
+      "la rive gauche."
+    ],
+    "correct": [
+      "un danger isolé."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_balisage/Q8.PNG"
+  },
+  {
+    "section": "Balisage",
+    "question": "Quelle est cette balise ?",
+    "answers": [
+      "Cardinale Nord.",
+      "Cardinale Est.",
+      "Cardinale Sud.",
+      "Cardinale Ouest."
+    ],
+    "correct": [
+      "Cardinale Ouest."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_balisage/pf282.png"
+  },
+  {
+    "section": "Balisage",
+    "question": "Vous êtes montant :",
+    "answers": [
+      "je viens à droite.",
+      "je viens à gauche.",
+      "je viens indifféremment à droite ou à gauche."
+    ],
+    "correct": [
+      "je viens à droite."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_balisage/Q9.PNG"
+  },
+  {
+    "section": "Balisage",
+    "question": "Cette marque indique :",
+    "answers": [
+      "un épi de rive droite.",
+      "un épi de rive gauche."
+    ],
+    "correct": [
+      "un épi de rive gauche."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_balisage/Q10.PNG"
+  },
+  {
+    "section": "Balisage",
+    "question": "Cet espar désigne :",
+    "answers": [
+      "un épi de rive droite.",
+      "un épi de rive gauche.",
+      "un banc médian."
+    ],
+    "correct": [
+      "un banc médian."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_balisage/Q11.PNG"
+  },
+  {
+    "section": "Balisage",
+    "question": "Cette balise indique :",
+    "answers": [
+      "une bifurcation avec chenal préféré du côté de la rive droite.",
+      "une bifurcation avec chenal préféré du côté de la rive gauche.",
+      "un danger isolé côté rive gauche.",
+      "un danger isolé côté rive droite."
+    ],
+    "correct": [
+      "une bifurcation avec chenal préféré du côté de la rive droite."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_balisage/pf243.png"
+  },
+  {
+    "section": "Balisage",
+    "question": "Qu'indiquent ces 2 bouées jaunes à droite du bâtiment ?",
+    "answers": [
+      "Un danger isolé.",
+      "Le chenal, il faut passer entre les deux bouées.",
+      "La présence d'un filet."
+    ],
+    "correct": [
+      "La présence d'un filet."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_balisage/Q17.PNG"
+  },
+  {
+    "section": "Balisage",
+    "question": "Qu'indique cette bouée jaune, surmontée d'un réflecteur radar, à gauche du bâtiment ?",
+    "answers": [
+      "La présence d'une ancre.",
+      "Passez sans faire de remous.",
+      "Une bifurcation."
+    ],
+    "correct": [
+      "La présence d'une ancre."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_balisage/Q18.PNG"
+  },
+  {
+    "section": "Balisage",
+    "question": "Ce balisage signale :",
+    "answers": [
+      "Une profondeur restreinte.",
+      "La présence de plongeurs.",
+      "Le côté tribord d'un chenal traversier.",
+      "Une voie affluente."
+    ],
+    "correct": [
+      "Le côté tribord d'un chenal traversier."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_balisage/Q19.PNG"
+  },
+  {
+    "section": "Balisage",
+    "question": "Cette marque peut indiquer :",
+    "answers": [
+      "la limite d'un chenal traversier.",
+      "une interdiction de passer.",
+      "une ancre dangereuse pour la navigation."
+    ],
+    "correct": [
+      "la limite d'un chenal traversier."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_balisage/Q348.png"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Sur un fleuve, qui est le plus prioritaire ?",
+    "answers": [
+      "Une menue embarcation à moteur.",
+      "Une menue embarcation à voile.",
+      "une péniche."
+    ],
+    "correct": [
+      "une péniche."
+    ]
+  },
+  {
+    "section": "Règles de barre",
+    "question": "De quel côté doit aller le bateau rouge ?",
+    "answers": [
+      "à droite.",
+      "à gauche.",
+      "il ne se dérange pas."
+    ],
+    "correct": [
+      "à droite."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_regles_barre/Q2.png"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Laquelle de ces menues embarcations doit manœuvrer ?",
+    "answers": [
+      "A.",
+      "B."
+    ],
+    "correct": [
+      "B."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_regles_barre/Q3.png"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Les bateaux montants doivent céder le passage aux bateaux avalants.",
+    "answers": [
+      "Vrai, sauf pour les menues embarcations.",
+      "Faux."
+    ],
+    "correct": [
+      "Vrai, sauf pour les menues embarcations."
+    ]
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Que signifie ce signal sonore ?",
+    "answers": [
+      "Je reste à droite.",
+      "Je reste à gauche.",
+      "je vire à droite.",
+      "je vire à gauche."
+    ],
+    "correct": [
+      "Je reste à droite."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_regles_barre/Q4.png"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Sur le bateau rouge, vous allez croiser l'automoteur jaune. Que faites-vous ?",
+    "answers": [
+      "Je le laisse passer de n'importe quel côté.",
+      "je viens à droite.",
+      "je viens à gauche."
+    ],
+    "correct": [
+      "je viens à gauche."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_regles_barre/Q5.png"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Que signifient ces signaux sonores ?",
+    "answers": [
+      "je viens à droite.",
+      "je viens à gauche.",
+      "je vire à droite.",
+      "je vire à gauche."
+    ],
+    "correct": [
+      "je vire à gauche."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_regles_barre/Q6.png"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Qui doit manœuvrer ?",
+    "answers": [
+      "A.",
+      "B."
+    ],
+    "correct": [
+      "B."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_regles_barre/Q7.png"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Qu'indique ce signal sonore ?",
+    "answers": [
+      "Je viens à gauche.",
+      "Je vire à gauche.",
+      "Je dépasse à gauche.",
+      "Je sors du port à gauche."
+    ],
+    "correct": [
+      "Je dépasse à gauche."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_regles_barre/Q8.png"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Dans la brume, il s'agit d'un :",
+    "answers": [
+      "avalant naviguant au radar.",
+      "bâtiment de commerce isolé.",
+      "d'un convoi."
+    ],
+    "correct": [
+      "bâtiment de commerce isolé.",
+      "d'un convoi."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_regles_barre/Q9.png"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Ce croisement est-il réglementaire ?",
+    "answers": [
+      "Oui.",
+      "Non."
+    ],
+    "correct": [
+      "Non."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_regles_barre/Q10.png"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Un bateau émet une série de sons prolongés répétés. Que vous indique-t-il ?",
+    "answers": [
+      "Il est en détresse.",
+      "Il y a risque imminent d'abordage.",
+      "Il va quitter son stationnement et accélérer."
+    ],
+    "correct": [
+      "Il est en détresse."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_regles_barre/pf283.png"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Qui est prioritaire sur le fleuve ?",
+    "answers": [
+      "L'automoteur jaune.",
+      "Le bateau à moteur rouge."
+    ],
+    "correct": [
+      "L'automoteur jaune."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_regles_barre/Q11.png"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Qui est prioritaire ?",
+    "answers": [
+      "A.",
+      "B."
+    ],
+    "correct": [
+      "A."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_regles_barre/Q12.png"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Ce signal sonore signifie :",
+    "answers": [
+      "je viens à droite.",
+      "je viens à gauche.",
+      "je fais marche arrière."
+    ],
+    "correct": [
+      "je viens à gauche."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_regles_barre/Q13.png"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Dans la brume, ce signal sonore à 3 tons indique :",
+    "answers": [
+      "une série de 3 écluses.",
+      "un bâtiment accosté.",
+      "un avalant naviguant au radar.",
+      "un avalant naviguant au drapeau bleu."
+    ],
+    "correct": [
+      "un avalant naviguant au radar."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_regles_barre/Q14.png"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Vous souhaitez dépasser un bâtiment qui vous répond par ce signal sonore.",
+    "answers": [
+      "Je peux le dépasser.",
+      "Il n'est pas d'accord.",
+      "Je peux le dépasser mais en faisant attention."
+    ],
+    "correct": [
+      "Il n'est pas d'accord."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_regles_barre/Q15.png"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Ce signal sonore veut dire :",
+    "answers": [
+      "interdiction de dépasser.",
+      "signal de détresse.",
+      "autorisation de dépasser.",
+      "Attention ! Risque d'abordage."
+    ],
+    "correct": [
+      "Attention ! Risque d'abordage."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_regles_barre/Q16.png"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Vous souhaitez dépasser un bateau par la droite, vous émettez le signal sonore :",
+    "answers": [
+      "A.",
+      "B.",
+      "C.",
+      "D."
+    ],
+    "correct": [
+      "C."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_regles_barre/Q17.png"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Un bateau émet ce signal sonore :",
+    "answers": [
+      "il va à droite.",
+      "il va à gauche.",
+      "il va en arrière.",
+      "il attire votre attention."
+    ],
+    "correct": [
+      "il va en arrière."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_regles_barre/Q18.png"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "La nuit, vous croisez un bateau qui montre ces feux. Que faites-vous ?",
+    "answers": [
+      "Je viens à droite.",
+      "Je viens à gauche.",
+      "Je m'arrête pour le laisser passer.",
+      "Je lui porte assistance."
+    ],
+    "correct": [
+      "Je viens à gauche."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_regles_barre/Q19.GIF"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Le bateau souhaite rentrer au port, il émet le signal sonore :",
+    "answers": [
+      "A.",
+      "B.",
+      "C.",
+      "D."
+    ],
+    "correct": [
+      "D."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_regles_barre/Q21.png"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Dans la brume, vous entendez 1 son long suivi de 4 sons brefs. Il s'agit :",
+    "answers": [
+      "d'un bâtiment isolé transportant des matières dangereuses.",
+      "d'un avalant au radar.",
+      "d'un montant au radar.",
+      "d'un bac ne naviguant pas au radar."
+    ],
+    "correct": [
+      "d'un bac ne naviguant pas au radar."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_regles_barre/Q22.png"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "À l'approche d'un coude sans visibilité, quel signal sonore faut-il émettre ?",
+    "answers": [
+      "A.",
+      "B.",
+      "C.",
+      "D."
+    ],
+    "correct": [
+      "B."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_regles_barre/Q23.png"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "En sortant du port, le bateau peut émettre le son :",
+    "answers": [
+      "A.",
+      "B.",
+      "C.",
+      "D."
+    ],
+    "correct": [
+      "D."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_regles_barre/Q25.png"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Sur un lac, le bateau B rattrape le bateau A. Quel est le bateau prioritaire ?",
+    "answers": [
+      "A.",
+      "B."
+    ],
+    "correct": [
+      "A."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_regles_barre/Q26.png"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Le voilier B rattrape le bateau A. Qui doit manœuvrer ?",
+    "answers": [
+      "A.",
+      "B."
+    ],
+    "correct": [
+      "B."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_regles_barre/Q27.png"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Que faites-vous en entendant ce signal sonore ininterrompu émis par un bateau ?",
+    "answers": [
+      "Je m'éloigne le plus rapidement possible du navire.",
+      "Je me rapproche du navire et lui porte assistance.",
+      "Je stationne près du navire."
+    ],
+    "correct": [
+      "Je m'éloigne le plus rapidement possible du navire."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/pf290.png"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "À quelle distance minimum devez-vous passer ?",
+    "answers": [
+      "25 m.",
+      "50 m.",
+      "100 m.",
+      "à une distance suffisante."
+    ],
+    "correct": [
+      "à une distance suffisante."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/Q27.png"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Cette flamme rouge, vue à l'avant d'un bateau, désigne :",
+    "answers": [
+      "un bateau prioritaire aux écluses.",
+      "un bateau transportant des matières explosives.",
+      "un bateau non manœuvrant.",
+      "un bateau en détresse."
+    ],
+    "correct": [
+      "un bateau prioritaire aux écluses."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/Q1.PNG"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Ce bateau est un :",
+    "answers": [
+      "Un bac.",
+      "un bateau remorqué.",
+      "Un bateau stationnant au large."
+    ],
+    "correct": [
+      "Un bateau stationnant au large."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/pf259.png"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Un bateau porte cette marque. Il s'agit :",
+    "answers": [
+      "d'un automoteur.",
+      "d'un bac naviguant librement.",
+      "d'un bac ne naviguant pas librement.",
+      "d'un remorqueur."
+    ],
+    "correct": [
+      "d'un remorqueur."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/Q2.PNG"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Vu par tribord, il s'agit des feux :",
+    "answers": [
+      "d'un bac naviguant librement.",
+      "d'un convoi poussé.",
+      "d'un bâtiment motorisé de 110m ou plus.",
+      "d'un remorqueur."
+    ],
+    "correct": [
+      "d'un bâtiment motorisé de 110m ou plus."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/Q3.PNG"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Il s'agit d'un :",
+    "answers": [
+      "automoteur.",
+      "remorqueur.",
+      "pousseur vu de l'avant.",
+      "pousseur vu de l'arrière."
+    ],
+    "correct": [
+      "pousseur vu de l'arrière."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/Q4.PNG"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Ce signal indique la présence de :",
+    "answers": [
+      "matières inflammables.",
+      "matières explosibles.",
+      "ammoniac."
+    ],
+    "correct": [
+      "matières inflammables."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/Q5.PNG"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Identifiez ce bateau :",
+    "answers": [
+      "Remorqueur.",
+      "Bateau de pêche.",
+      "bateau effectuant des travaux dans la voie de navigation intérieure."
+    ],
+    "correct": [
+      "bateau effectuant des travaux dans la voie de navigation intérieure."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/pf270.gif"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "De jour, il s'agit :",
+    "answers": [
+      "d'un remorqueur.",
+      "d'un bac.",
+      "d'un voilier.",
+      "d'un pousseur."
+    ],
+    "correct": [
+      "d'un bac."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/Q6.PNG"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Ce feu bleu clignotant signale :",
+    "answers": [
+      "un bâtiment transportant des matières inflammables.",
+      "un bâtiment transportant du gaz.",
+      "un bâtiment d'autorité de contrôle ."
+    ],
+    "correct": [
+      "un bâtiment d'autorité de contrôle ."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/Q7.GIF"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Vous reconnaissez un bâtiment :",
+    "answers": [
+      "transportant des matières inflammables.",
+      "transportant des matières dangereuses pour la santé.",
+      "transportant des matières explosives."
+    ],
+    "correct": [
+      "transportant des matières explosives."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/Q8.PNG"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Ce sont les feux d'un :",
+    "answers": [
+      "voilier",
+      "remorqueur.",
+      "bâtiment motorisé de moins de 110m."
+    ],
+    "correct": [
+      "remorqueur."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/Q9.PNG"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Vous voyez ce signal. De quoi s'agit-il ?",
+    "answers": [
+      "Bateau incapable de manœuvrer.",
+      "Bateau en détresse.",
+      "Bateau transportant des matières dangereuses.",
+      "Bateau prioritaire."
+    ],
+    "correct": [
+      "Bateau incapable de manœuvrer."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/Q10.GIF"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "De nuit, un convoi poussé stationnant au large montre :",
+    "answers": [
+      "Un feu blanc sur chaque bateau du convoi.",
+      "Un feu blanc uniquement sur le pousseur.",
+      "Un feu jaune sur le pousseur et un feu blanc à l'avant du convoi."
+    ],
+    "correct": [
+      "Un feu blanc sur chaque bateau du convoi."
+    ]
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Quel est ce bâtiment ?",
+    "answers": [
+      "Un remorqueur.",
+      "Un convoi poussé.",
+      "Une formation à couple."
+    ],
+    "correct": [
+      "Un convoi poussé."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/Q11.PNG"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Le bâtiment qui porte ces feux est un :",
+    "answers": [
+      "remorqueur.",
+      "bac ne naviguant pas librement.",
+      "bac naviguant librement."
+    ],
+    "correct": [
+      "bac naviguant librement."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/Q12.PNG"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Ces 2 cônes bleus signalent :",
+    "answers": [
+      "des matières inflammables.",
+      "des matières dangereuses pour la santé.",
+      "un transport de passagers."
+    ],
+    "correct": [
+      "des matières dangereuses pour la santé."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/Q13.PNG"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Ce feu jaune sur un bateau est :",
+    "answers": [
+      "le feu de poupe d'un remorqueur.",
+      "le feu de poupe d'un automoteur.",
+      "le feu de poupe d'un bac."
+    ],
+    "correct": [
+      "le feu de poupe d'un remorqueur."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/Q14.PNG"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Quel est ce bateau ?",
+    "answers": [
+      "Un voilier de + de 20 mètres.",
+      "Un bac naviguant librement.",
+      "Un automoteur.",
+      "Un convoi."
+    ],
+    "correct": [
+      "Un voilier de + de 20 mètres."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/Q17.PNG"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Quel peut être ce bateau qui avance vers vous ?",
+    "answers": [
+      "Une menue embarcation motorisée de plus de 7 mètres.",
+      "Une menue embarcation à voile (moins de 7m) ou à rame.",
+      "Un automoteur."
+    ],
+    "correct": [
+      "Une menue embarcation à voile (moins de 7m) ou à rame."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/Q19.PNG"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "La nuit, en voyant ces signaux :",
+    "answers": [
+      "je viens à droite.",
+      "je viens à gauche.",
+      "je ne dois pas passer.",
+      "je dois passer entre les 2 feux rouges."
+    ],
+    "correct": [
+      "je viens à droite."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation1/Q20.PNG"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Quelle précaution à prendre avec ce bateau en stationnement ?",
+    "answers": [
+      "Passer à plus de 10m.",
+      "Passer à plus de 50m.",
+      "Passer sans faire des remous."
+    ],
+    "correct": [
+      "Passer sans faire des remous."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/Q21.PNG"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Face à ce bateau :",
+    "answers": [
+      "Je passe à droite.",
+      "Je passe à gauche.",
+      "Je passe indifféremment à droite ou à gauche."
+    ],
+    "correct": [
+      "Je passe indifféremment à droite ou à gauche."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/Q23.PNG"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "La nuit, vous croisez ce bâtiment :",
+    "answers": [
+      "je viens à droite.",
+      "je viens à gauche.",
+      "je ne modifie pas ma route, il doit manœuvrer."
+    ],
+    "correct": [
+      "je viens à droite."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/Q25.PNG"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Ce feu rouge montré circulairement indique :",
+    "answers": [
+      "un bateau incapable de manœuvrer.",
+      "un bateau transportant des matières très dangereuses.",
+      "un bateau en détresse."
+    ],
+    "correct": [
+      "un bateau en détresse."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/Q26.GIF"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Qu'indique ce pavillon ?",
+    "answers": [
+      "Transport de matières inflammables.",
+      "Présence de plongeur subaquatique.",
+      "Voie affluente."
+    ],
+    "correct": [
+      "Présence de plongeur subaquatique."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/Q27.png"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Identifiez ce navire :",
+    "answers": [
+      "Bateau rapide faisant route.",
+      "Bateau transportant des matières radioactives faisant route.",
+      "Remorqueur faisant route."
+    ],
+    "correct": [
+      "Bateau rapide faisant route."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/pf250.gif"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Cette boule jaune, vue en mâture d'un bateau, désigne :",
+    "answers": [
+      "un bateau au mouillage.",
+      "un bateau en stationnement.",
+      "un bateau remorqué."
+    ],
+    "correct": [
+      "un bateau remorqué."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/pf251.png"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Un bateau montre ce bicône jaune. De quoi s'agit-il ?",
+    "answers": [
+      "Un navire à capacité de manœuvre restreinte.",
+      "Bateau pouvant transporter plus de 12 passagers.",
+      "Bateau pêchant à la traine."
+    ],
+    "correct": [
+      "Bateau pouvant transporter plus de 12 passagers."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/pf252.png"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Un bateau porte ces 2 boules noires. Il est :",
+    "answers": [
+      "incapable de manœuvrer.",
+      "en stationnement au large.",
+      "en détresse."
+    ],
+    "correct": [
+      "incapable de manœuvrer."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/pf305.png"
+  },
+  {
+    "section": "VHF 1",
+    "question": "Une VHF fixe a une puissance maximum de :",
+    "answers": [
+      "15 watts.",
+      "25 watts.",
+      "50 watts."
+    ],
+    "correct": [
+      "25 watts."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_vhf/q3.jpg"
+  },
+  {
+    "section": "VHF 1",
+    "question": "Quelle est la fonction du bouton Squelch ?",
+    "answers": [
+      "Supprimer le bruit de fond et définir le niveau minimum de réception.",
+      "Choisir le canal d'émission.",
+      "Régler le volume du signal entrant."
+    ],
+    "correct": [
+      "Supprimer le bruit de fond et définir le niveau minimum de réception."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_vhf/q7.png"
+  },
+  {
+    "section": "VHF 1",
+    "question": "Appuyer sur la touche PTT permet :",
+    "answers": [
+      "d'appeler le central PTT le plus proche.",
+      "d'entendre les appels reçus.",
+      "d'enclencher l'émission pour pouvoir parler."
+    ],
+    "correct": [
+      "d'enclencher l'émission pour pouvoir parler."
+    ]
+  },
+  {
+    "section": "VHF 1",
+    "question": "À quelle puissance maximum devez-vous régler votre VHF portative ?",
+    "answers": [
+      "1 watt.",
+      "5 watts.",
+      "6 watts."
+    ],
+    "correct": [
+      "1 watt."
+    ]
+  },
+  {
+    "section": "VHF 1",
+    "question": "Quels sont les canaux utilisés dans le réseau Bateau <-> Autorités portuaires ?",
+    "answers": [
+      "06 - 08 - 13 - 72 -77",
+      "10 - 12 -14 - 72 - 74",
+      "12 - 14 - 71 - 75",
+      "11 - 12 - 16 - 70 - 74 - 75"
+    ],
+    "correct": [
+      "12 - 14 - 71 - 75"
+    ]
+  },
+  {
+    "section": "VHF 1",
+    "question": "Les canaux vhf du réseau bateaux <-> bateaux sont des canaux :",
+    "answers": [
+      "Simplex.",
+      "Duplex.",
+      "Triplex."
+    ],
+    "correct": [
+      "Simplex."
+    ]
+  },
+  {
+    "section": "VHF 1",
+    "question": "Lequel de ces réseaux n'est pas un réseau de communication fluvial ?",
+    "answers": [
+      "Réseau Bateau<-> Bateau.",
+      "Réseau Informations Nautiques.",
+      "Réseau Bateau <-> Autorités portuaires.",
+      "Réseau Bateau <-> CROSS."
+    ],
+    "correct": [
+      "Réseau Bateau <-> CROSS."
+    ]
+  },
+  {
+    "section": "VHF 1",
+    "question": "Vous risquez :",
+    "answers": [
+      "une poursuite pénale.",
+      "une confiscation de votre navire.",
+      "une confiscation de votre équipement VHF."
+    ],
+    "correct": [
+      "une poursuite pénale.",
+      "une confiscation de votre équipement VHF."
+    ]
+  },
+  {
+    "section": "VHF 1",
+    "question": "Faites-vous usage de la fonction ASN de votre VHF ?",
+    "answers": [
+      "Oui, bien sûr.",
+      "Non, c'est formellement interdit."
+    ],
+    "correct": [
+      "Non, c'est formellement interdit."
+    ]
+  },
+  {
+    "section": "VHF 1",
+    "question": "Vous recevez un message de détresse sur le canal de veille :",
+    "answers": [
+      "je change de canal pour ne pas être importuné de nouveau.",
+      "je change de canal pour ne pas gêner les communications de détresse.",
+      "je cesse immédiatement toute communication en cours.",
+      "je prends note du message de détresse."
+    ],
+    "correct": [
+      "je cesse immédiatement toute communication en cours.",
+      "je prends note du message de détresse."
+    ]
+  },
+  {
+    "section": "VHF 1",
+    "question": "Dans le domaine fluvial, quel est le canal d'appel du réseau bateau <-> bateau ?",
+    "answers": [
+      "Le canal 10.",
+      "Le canal 16.",
+      "Le canal 18.",
+      "Le canal 70."
+    ],
+    "correct": [
+      "Le canal 10."
+    ]
+  },
+  {
+    "section": "VHF 1",
+    "question": "Quelle est la puissance vhf maximum autorisée ?",
+    "answers": [
+      "1 watt.",
+      "6 watts.",
+      "25 watts."
+    ],
+    "correct": [
+      "1 watt."
+    ]
+  },
+  {
+    "section": "VHF 1",
+    "question": "Quel canal utilisez-vous ?",
+    "answers": [
+      "Le canal 10.",
+      "Le canal du réseau Correspondance Publiques.",
+      "Le canal du réseau Informations Nautiques."
+    ],
+    "correct": [
+      "Le canal du réseau Informations Nautiques."
+    ]
+  },
+  {
+    "section": "VHF 1",
+    "question": "En eaux exclusivement intérieures, le canal 16 du service maritime peut-il être utilisé ?",
+    "answers": [
+      "Oui.",
+      "Oui, mais seulement si on se trouve à plus de 100 km de la mer.",
+      "Non, c'est interdit."
+    ],
+    "correct": [
+      "Non, c'est interdit."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_vhf/q51.png"
+  },
+  {
+    "section": "VHF 1",
+    "question": "Comment précisez-vous la position de votre bateau ?",
+    "answers": [
+      "En donnant mes coordonnées GPS (longitude et latitude).",
+      "En donnant le point kilométrique (PK) de la voie où je navigue."
+    ],
+    "correct": [
+      "En donnant le point kilométrique (PK) de la voie où je navigue."
+    ]
+  },
+  {
+    "section": "VHF 1",
+    "question": "Les canaux 06, 08 et 13 du réseau bateau <-> bateau sont réservés :",
+    "answers": [
+      "aux transmissions relatives à la sécurité des personnes, à la navigation et à la sécurité des bateaux.",
+      "aux communications privées.",
+      "aux communications avec les autorités portuaires."
+    ],
+    "correct": [
+      "aux transmissions relatives à la sécurité des personnes, à la navigation et à la sécurité des bateaux."
+    ]
+  },
+  {
+    "section": "VHF 1",
+    "question": "En eaux intérieures, pourquoi l'usage du canal 70 est-il formellement interdit ?",
+    "answers": [
+      "C'est le canal réservé à l'ASN.",
+      "C'est le canal réservé aux communications entre éclusiers.",
+      "C'est le canal réservé aux communications des autorités de police fluviale.",
+      "C'est un canal reservé au domaine maritime."
+    ],
+    "correct": [
+      "C'est le canal réservé à l'ASN.",
+      "C'est un canal reservé au domaine maritime."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_vhf/q137.png"
+  },
+  {
+    "section": "VHF 1",
+    "question": "Sur les voies intérieures, le canal 10 :",
+    "answers": [
+      "est le canal réservé pour les VNF.",
+      "est le canal réservé aux communications privées.",
+      "est la 1ère voie d'appel du réseau bateau<->bateau.",
+      "doit être obligatoirement veillé sur certaines voies."
+    ],
+    "correct": [
+      "est la 1ère voie d'appel du réseau bateau<->bateau.",
+      "doit être obligatoirement veillé sur certaines voies."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_vhf/q139.png"
+  },
+  {
+    "section": "VHF 1",
+    "question": "En radiotéléphonie, lors d'un appel de détresse, combien de fois de suite prononcez-vous le mot Mayday en tout début de message ?",
+    "answers": [
+      "2 fois.",
+      "3 fois.",
+      "4 fois."
+    ],
+    "correct": [
+      "3 fois."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_vhf/q106.png"
+  },
+  {
+    "section": "VHF 1",
+    "question": "Le message PAN PAN ne s'utilise qu'en cas de panne mécanique.",
+    "answers": [
+      "Vrai.",
+      "Faux."
+    ],
+    "correct": [
+      "Faux."
+    ]
+  },
+  {
+    "section": "VHF 1",
+    "question": "Il n'y a pas de marquage CE, ni de logo \"barre à roue\" :",
+    "answers": [
+      "ma VHF est conforme.",
+      "ma VHF n'est pas conforme."
+    ],
+    "correct": [
+      "ma VHF n'est pas conforme."
+    ]
+  },
+  {
+    "section": "VHF 1",
+    "question": "Vous disposez d'une VHF à bord. La licence d'exploitation fait partie des pièces administratives obligatoires.",
+    "answers": [
+      "Vrai.",
+      "Faux."
+    ],
+    "correct": [
+      "Vrai."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_vhf/q28.png"
+  },
+  {
+    "section": "VHF 1",
+    "question": "La portée de la VHF est fonction :",
+    "answers": [
+      "de la hauteur des antennes émettrices et réceptrices.",
+      "du canal utilisé pour la transmission.",
+      "du taux de charge des batteries de la radio VHF."
+    ],
+    "correct": [
+      "de la hauteur des antennes émettrices et réceptrices."
+    ]
+  },
+  {
+    "section": "VHF 1",
+    "question": "Dans les eaux françaises, vous pouvez utiliser une VHF fixe :",
+    "answers": [
+      "si je suis titulaire du CRR.",
+      "si je suis titulaire d'un permis plaisance.",
+      "Aucun permis ou certificat n'est requis."
+    ],
+    "correct": [
+      "si je suis titulaire du CRR.",
+      "si je suis titulaire d'un permis plaisance."
+    ]
+  },
+  {
+    "section": "VHF 1",
+    "question": "La licence est obligatoire :",
+    "answers": [
+      "si je sors des eaux françaises uniquement.",
+      "Si je ne suis pas titulaire du CRR.",
+      "dans tous les cas."
+    ],
+    "correct": [
+      "dans tous les cas."
+    ]
+  },
+  {
+    "section": "VHF 2",
+    "question": "Les VHF utilisées dans le service fluvial disposent d'un système permettant d'adapter la puissance au réseau utilisé.",
+    "answers": [
+      "Vrai.",
+      "Faux."
+    ],
+    "correct": [
+      "Vrai."
+    ]
+  },
+  {
+    "section": "VHF 2",
+    "question": "Quelles sont les voies de travail réservées aux communications bateau <-> bateau ?",
+    "answers": [
+      "8, 9, 16, 72, 78",
+      "6, 8, 13, 72, 77",
+      "6, 8, 16, 72, 77",
+      "6, 9, 70, 72, 77"
+    ],
+    "correct": [
+      "6, 8, 13, 72, 77"
+    ]
+  },
+  {
+    "section": "VHF 2",
+    "question": "En eaux intérieures, l'usage du canal vhf 70 est autorisé.",
+    "answers": [
+      "Vrai.",
+      "Faux.",
+      "Vrai, mais uniquement en cas de détresse."
+    ],
+    "correct": [
+      "Faux."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_vhf/q137.png"
+  },
+  {
+    "section": "VHF 2",
+    "question": "Les communications vhf à caractère privé sont :",
+    "answers": [
+      "autorisées seulement sur les canaux 6 et 8.",
+      "autorisées seulement sur les canaux 8 et 13.",
+      "autorisées seulement sur les canaux 72 et 77.",
+      "autorisées sur tous les canaux du réseau bateau <-> bateau."
+    ],
+    "correct": [
+      "autorisées seulement sur les canaux 72 et 77."
+    ]
+  },
+  {
+    "section": "VHF 2",
+    "question": "Quelle est la puissance maximum autorisée pour la VHF ?",
+    "answers": [
+      "1 watt.",
+      "6 watt.",
+      "25 watts."
+    ],
+    "correct": [
+      "25 watts."
+    ]
+  },
+  {
+    "section": "VHF 2",
+    "question": "La licence d'exploitation est obligatoire pour une VHF portative.",
+    "answers": [
+      "Vrai.",
+      "Faux."
+    ],
+    "correct": [
+      "Vrai."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_vhf/q38.jpg"
+  },
+  {
+    "section": "VHF 2",
+    "question": "Une voie de communication est dite \"simplex\" quand :",
+    "answers": [
+      "Les procédures de communications sont simplifiées.",
+      "L'émission et la réception se font sur la même fréquence.",
+      "L'émission et la réception se font sur 2 fréquences distinctes."
+    ],
+    "correct": [
+      "L'émission et la réception se font sur la même fréquence."
+    ]
+  },
+  {
+    "section": "VHF 2",
+    "question": "Les ondes VHF se propagent :",
+    "answers": [
+      "en ligne droite.",
+      "par rebonds sur les couches basses de l'atmosphère.",
+      "par rebonds sur la surface de l'eau."
+    ],
+    "correct": [
+      "en ligne droite."
+    ]
+  },
+  {
+    "section": "VHF 2",
+    "question": "Vous utilisez la touche H/L de la VHF pour :",
+    "answers": [
+      "basculer entre les modes de puissance d'émission normale et puissance d'émission réduite.",
+      "augmenter le niveau sonore de la VHF.",
+      "amplifier ou réduire le signal de réception."
+    ],
+    "correct": [
+      "basculer entre les modes de puissance d'émission normale et puissance d'émission réduite."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_vhf/q58.png"
+  },
+  {
+    "section": "VHF 2",
+    "question": "Le CRR devient obligatoire à partir du moment où :",
+    "answers": [
+      "je navigue sur un navire de plus de 15 mètres.",
+      "je suis titulaire du permis mer hauturier.",
+      "je sors des eaux territoriales françaises."
+    ],
+    "correct": [
+      "je sors des eaux territoriales françaises."
+    ]
+  },
+  {
+    "section": "VHF 2",
+    "question": "Combien de licences devez vous posséder ?",
+    "answers": [
+      "Une seule, qui regroupe les VHF fixe et portable.",
+      "Une seule, uniquement pour la VHF fixe.",
+      "Deux, une pour chaque appareil."
+    ],
+    "correct": [
+      "Une seule, qui regroupe les VHF fixe et portable."
+    ]
+  },
+  {
+    "section": "VHF 2",
+    "question": "À terre, l'utilisation de la VHF marine est-elle autorisée ?",
+    "answers": [
+      "Oui.",
+      "Oui, mais seulement en cas de détresse.",
+      "Non, c'est strictement interdit."
+    ],
+    "correct": [
+      "Non, c'est strictement interdit."
+    ]
+  },
+  {
+    "section": "VHF 2",
+    "question": "Pour être conforme, votre VHF doit comporter la marque :",
+    "answers": [
+      "ISO.",
+      "CE.",
+      "AFNOR.",
+      "NF."
+    ],
+    "correct": [
+      "CE."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_vhf/q85.png"
+  },
+  {
+    "section": "VHF 2",
+    "question": "Le feu s'est déclaré à bord. Vous envoyez un message VHF :",
+    "answers": [
+      "HELP.",
+      "SOS.",
+      "MAYDAY.",
+      "SÉCURITÉ."
+    ],
+    "correct": [
+      "MAYDAY."
+    ]
+  },
+  {
+    "section": "VHF 2",
+    "question": "Quel est le type de message VHF associé à la notion d'urgence ?",
+    "answers": [
+      "MAYDAY.",
+      "PAN PAN.",
+      "SÉCURITÉ."
+    ],
+    "correct": [
+      "PAN PAN."
+    ]
+  },
+  {
+    "section": "VHF 2",
+    "question": "En phonie, vous envoyez un message :",
+    "answers": [
+      "MEDICAL MAYDAY.",
+      "MAYDAY.",
+      "PAN PAN."
+    ],
+    "correct": [
+      "PAN PAN."
+    ]
+  },
+  {
+    "section": "VHF 2",
+    "question": "Pourquoi l'usage de l'ASN est-il formellement interdit sur les voies navigables intérieures ?",
+    "answers": [
+      "Parce que les canaux ASN fluviaux sont différents.",
+      "Parce que la portée de la VHF ASN n'est pas suffisante pour atteindre une station.",
+      "Parce que l'usage de l'ASN est réservé au domaine maritime.",
+      "Parce que la fréquence ASN vient brouiller celle de la police."
+    ],
+    "correct": [
+      "Parce que l'usage de l'ASN est réservé au domaine maritime."
+    ]
+  },
+  {
+    "section": "VHF 2",
+    "question": "Qu'est-ce que l' ATIS ?",
+    "answers": [
+      "Un système qui envoie l'identification du navire à la fin de chaque émission.",
+      "Un système permettant de transmettre la position du bateau.",
+      "Un système permettant d'envoyer automatiquement un message de détresse numérique."
+    ],
+    "correct": [
+      "Un système qui envoie l'identification du navire à la fin de chaque émission."
+    ]
+  },
+  {
+    "section": "VHF 2",
+    "question": "Quel est le type de message VHF associé à la notion de détresse ?",
+    "answers": [
+      "SOS.",
+      "MAYDAY.",
+      "HELP.",
+      "URGENCY."
+    ],
+    "correct": [
+      "MAYDAY."
+    ]
+  },
+  {
+    "section": "VHF 2",
+    "question": "Peut-on entendre votre message si vous n'appuyez pas sur la touche PTT en parlant ?",
+    "answers": [
+      "Oui.",
+      "Oui, mais moins fort.",
+      "Non, pas du tout."
+    ],
+    "correct": [
+      "Non, pas du tout."
+    ]
+  },
+  {
+    "section": "VHF 2",
+    "question": "Vous souhaitez contacter la capitainerie :",
+    "answers": [
+      "j'utilise la vhf à puissance réduite 1 W.",
+      "j'utilise la vhf à puissance forte 25 W.",
+      "Je n'utilise pas la vhf car je suis trop proche des terres."
+    ],
+    "correct": [
+      "j'utilise la vhf à puissance réduite 1 W."
+    ]
+  },
+  {
+    "section": "VHF 2",
+    "question": "La licence VHF comporte (entre autres) :",
+    "answers": [
+      "l'indicatif d'appel de votre station VHF.",
+      "votre n° de permis plaisance.",
+      "le code ATIS qui est attribué à votre bateau."
+    ],
+    "correct": [
+      "l'indicatif d'appel de votre station VHF.",
+      "le code ATIS qui est attribué à votre bateau."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_vhf/q28.png"
+  },
+  {
+    "section": "VHF 2",
+    "question": "En France, quelle autorité délivre les licences des stations radio des navires ?",
+    "answers": [
+      "Les affaires maritimes.",
+      "L'agence nationale des fréquences (ANFR).",
+      "L' Union Française des Télécommunications (UFT)."
+    ],
+    "correct": [
+      "L'agence nationale des fréquences (ANFR)."
+    ]
+  },
+  {
+    "section": "VHF 2",
+    "question": "Pouvez-vous continuer à utiliser votre VHF ?",
+    "answers": [
+      "Oui, mon permis plaisance est reconnu internationalement pour l'utilisation d'une VHF.",
+      "Non, le CRR devient indispensable dans ce cas."
+    ],
+    "correct": [
+      "Non, le CRR devient indispensable dans ce cas."
+    ]
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Que signifie le verbe déhaler ?",
+    "answers": [
+      "Déplacer un bateau au moyen de ses amarres.",
+      "Larguer les amarres d'un bateau.",
+      "Lever l'ancre et partir."
+    ],
+    "correct": [
+      "Déplacer un bateau au moyen de ses amarres."
+    ]
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Vous êtes montant.",
+    "answers": [
+      "La rive gauche est à tribord.",
+      "La rive gauche est à bâbord."
+    ],
+    "correct": [
+      "La rive gauche est à tribord."
+    ]
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Sous quelles arches d'autres bateaux, en sens inverse, peuvent-ils arriver ?",
+    "answers": [
+      "Sous l'arche A.",
+      "Sous l'arche B.",
+      "Sous l'arche C."
+    ],
+    "correct": [
+      "Sous l'arche A.",
+      "Sous l'arche C."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation1/pf373.png"
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Sur une rivière à courant libre :",
+    "answers": [
+      "Il peut y avoir des écluses.",
+      "Il n'y a pas d'écluses.",
+      "Il peut y avoir des crues.",
+      "Il n'y a jamais de crues."
+    ],
+    "correct": [
+      "Il n'y a pas d'écluses.",
+      "Il peut y avoir des crues."
+    ]
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Vous êtes avalant.",
+    "answers": [
+      "La rive droite est à tribord.",
+      "La rive droite est à bâbord."
+    ],
+    "correct": [
+      "La rive droite est à tribord."
+    ]
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Cette barge est :",
+    "answers": [
+      "Un bac.",
+      "Un établissement flottant.",
+      "Un engin flottant."
+    ],
+    "correct": [
+      "Un engin flottant."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_vocabulaire/pf299.jpg"
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "On dit qu'un bateau \"continue sur son erre\" quand :",
+    "answers": [
+      "il navigue sur sa réserve d'essence.",
+      "il est poussé par les vagues formées par un autre bateau .",
+      "moteur au point mort ou coupé, il continue à avancer sur sa lancée."
+    ],
+    "correct": [
+      "moteur au point mort ou coupé, il continue à avancer sur sa lancée."
+    ]
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Un haut fond :",
+    "answers": [
+      "réduit le mouillage.",
+      "augmente le mouillage.",
+      "réduit le tirant d'eau.",
+      "augmente le tirant d'eau."
+    ],
+    "correct": [
+      "réduit le mouillage."
+    ]
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Comment s'appelle le dispositif qui écarte de la berge le navire amarré ?",
+    "answers": [
+      "Un écarteur.",
+      "Une écoire.",
+      "Un étai.",
+      "Un pousse-berge."
+    ],
+    "correct": [
+      "Une écoire."
+    ]
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Les portes d'une écluse s'ouvrent :",
+    "answers": [
+      "vers l'amont.",
+      "vers l'aval."
+    ],
+    "correct": [
+      "vers l'amont."
+    ]
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "le bief de partage se situe :",
+    "answers": [
+      "dans la direction A.",
+      "dans la direction B."
+    ],
+    "correct": [
+      "dans la direction B."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_vocabulaire/Q5.png"
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Le bateau rouge dans l'écluse est :",
+    "answers": [
+      "montant.",
+      "avalant."
+    ],
+    "correct": [
+      "montant."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/q188.png"
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Vous naviguez contre le courant.",
+    "answers": [
+      "Je suis avalant.",
+      "Je suis montant."
+    ],
+    "correct": [
+      "Je suis montant."
+    ]
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Qu'est-ce que le nolisage ?",
+    "answers": [
+      "Location d'un coche de plaisance.",
+      "Dragage des canaux et rivières.",
+      "Utilisation des canaux intérieurs par un navire de mer."
+    ],
+    "correct": [
+      "Location d'un coche de plaisance."
+    ]
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Qu'est-ce que le pied de pilote ?",
+    "answers": [
+      "Le pied d'appel du chef de bord.",
+      "Le poste de pilotage d'un navire.",
+      "La marge de sécurité sous le bateau pour éviter l’échouage.",
+      "La distance à laisser entre le côté du bateau et la paroi verticale d'une écluse."
+    ],
+    "correct": [
+      "La marge de sécurité sous le bateau pour éviter l’échouage."
+    ]
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Que signifie \"avoir de l'erre\" ?",
+    "answers": [
+      "Avoir de la vitesse par rapport à l'eau.",
+      "Avoir de la vitesse par rapport à la berge.",
+      "Avoir la voie dégagée de tout autre navire.",
+      "Avoir suffisamment de tirant d'air."
+    ],
+    "correct": [
+      "Avoir de la vitesse par rapport à l'eau."
+    ]
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Dans le vocabulaire fluvial, comment nomme-t-on la hauteur désignée en rouge ?",
+    "answers": [
+      "La profondeur libre.",
+      "Le mouillage.",
+      "La sonde.",
+      "Le tirant d'eau."
+    ],
+    "correct": [
+      "Le mouillage."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/q182.png"
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Comment nomme-t-on ce qui est désigné par la flèche rouge ?",
+    "answers": [
+      "La hauteur protégée.",
+      "La hauteur libre.",
+      "Le tirant d'air.",
+      "Le tirant de pont."
+    ],
+    "correct": [
+      "La hauteur libre."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/q164.png"
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Qu'est-ce qu'un alternat ?",
+    "answers": [
+      "Un feu s’allumant alternativement.",
+      "Un élément du moteur produisant de l'électricité.",
+      "Un bateau naviguant dans le sens du courant.",
+      "Un passage rétréci nécessitant de passer alternativement."
+    ],
+    "correct": [
+      "Un passage rétréci nécessitant de passer alternativement."
+    ]
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Dans le vocabulaire des mariniers, comment nomme-t-on une péniche ?",
+    "answers": [
+      "Une gondole.",
+      "Un automoteur.",
+      "Un transmoteur.",
+      "Un pousseur."
+    ],
+    "correct": [
+      "Un automoteur."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/q156.png"
+  },
+  {
+    "section": "Vocabulaire",
+    "question": "Une rivière canalisée est :",
+    "answers": [
+      "Aménagée avec des barrages et des écluses afin d'être navigable.",
+      "Longée par un canal.",
+      "contrôlée afin de lui assurer un débit constant."
+    ],
+    "correct": [
+      "Aménagée avec des barrages et des écluses afin d'être navigable."
+    ]
+  },
+  {
+    "section": "Signalisation",
+    "question": "Que signifient ces 2 feux rouges ?",
+    "answers": [
+      "Interdiction de faire des remous.",
+      "Interdiction prolongée de passer.",
+      "Interdiction de passer sauf menues embarcations de plaisance."
+    ],
+    "correct": [
+      "Interdiction prolongée de passer."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation1/pf307.png"
+  },
+  {
+    "section": "Signalisation",
+    "question": "À la vue de ce panneau :",
+    "answers": [
+      "je dois rester vigilant.",
+      "je dois émettre des signaux sonores.",
+      "je peux rencontrer des skieurs nautiques."
+    ],
+    "correct": [
+      "je dois rester vigilant.",
+      "je peux rencontrer des skieurs nautiques."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/pf316.png"
+  },
+  {
+    "section": "Signalisation",
+    "question": "Ce signal lumineux signifie :",
+    "answers": [
+      "Autorisation d'entrer dans le bassin qui est situé dans le sens de la flèche.",
+      "Sens de navigation des bacs.",
+      "Se diriger vers la rive gauche.",
+      "Se diriger vers la rive droite."
+    ],
+    "correct": [
+      "Autorisation d'entrer dans le bassin qui est situé dans le sens de la flèche."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/pf260.png"
+  },
+  {
+    "section": "Signalisation",
+    "question": "Ces feux vous indiquent :",
+    "answers": [
+      "Interdiction de passer. L'interdiction va être prolongée.",
+      "Interdiction de passer. L'interdiction va être passagère.",
+      "Présence dans l'écluse d'un bateau transportant de l'ammoniac."
+    ],
+    "correct": [
+      "Interdiction de passer. L'interdiction va être prolongée."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation1/pf307.png"
+  },
+  {
+    "section": "Signalisation",
+    "question": "Que signifie ce panneau :",
+    "answers": [
+      "Autorisation de faire des remous.",
+      "Zone autorisée pour la navigation à grande vitesse.",
+      "Zone autorisée pour la pratique du ski nautique."
+    ],
+    "correct": [
+      "Zone autorisée pour la navigation à grande vitesse."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/pf276.png"
+  },
+  {
+    "section": "Signalisation",
+    "question": "Sous l'arche n° 3 :",
+    "answers": [
+      "je peux passer à mes risques et périls.",
+      "je ne dois pas passer.",
+      "je passe en priorité sous cette arche."
+    ],
+    "correct": [
+      "je peux passer à mes risques et périls."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/q196.png"
+  },
+  {
+    "section": "Signalisation",
+    "question": "Que vous indique ce feu vert ?",
+    "answers": [
+      "Préparez-vous à mettre en marche.",
+      "Croisement du passage d'un bac.",
+      "Interdiction de passer.",
+      "Passage autorisé."
+    ],
+    "correct": [
+      "Passage autorisé."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation1/pf306.png"
+  },
+  {
+    "section": "Signalisation",
+    "question": "Quelle arche allez-vous privilégier pour passer sous ce pont ?",
+    "answers": [
+      "L'arche 1.",
+      "L'arche 2.",
+      "L'arche 3."
+    ],
+    "correct": [
+      "L'arche 2."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/q195.png"
+  },
+  {
+    "section": "Signalisation",
+    "question": "Ce 2 feux verts signifient :",
+    "answers": [
+      "Autorisation de passer.",
+      "Se préparer à mettre en marche.",
+      "Autorisation de passer pour les convois seulement."
+    ],
+    "correct": [
+      "Autorisation de passer."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation1/pf311.png"
+  },
+  {
+    "section": "Signalisation",
+    "question": "Pouvez-vous stationner dans une zone marquée par ce panneau ?",
+    "answers": [
+      "Oui.",
+      "Oui, mais uniquement pour amarrer et pas ancrer.",
+      "Non."
+    ],
+    "correct": [
+      "Non."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation1/Q23.png"
+  },
+  {
+    "section": "Signalisation",
+    "question": "Le passage de l'automoteur jaune sous cette arche de pont est-il correct ?",
+    "answers": [
+      "Oui.",
+      "Non."
+    ],
+    "correct": [
+      "Non."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/q198.png"
+  },
+  {
+    "section": "Signalisation",
+    "question": "Vous pilotez une menue embarcation motorisée. Pouvez-vous vous engager sur la voie montrant ce panneau ?",
+    "answers": [
+      "Oui, ce panneau ne concerne que les bâtiments de commerce.",
+      "Non."
+    ],
+    "correct": [
+      "Non."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation2/Q2.PNG"
+  },
+  {
+    "section": "Signalisation",
+    "question": "La nuit, que faites-vous face à ces feux ?",
+    "answers": [
+      "Je viens à droite.",
+      "Je viens à gauche.",
+      "Je passe entre les 2 feux.",
+      "Je porte assistance."
+    ],
+    "correct": [
+      "Je viens à gauche."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation2/Q12.GIF"
+  },
+  {
+    "section": "Signalisation",
+    "question": "La zone marquée par ce panneau est :",
+    "answers": [
+      "Aire de stationnement réservée uniquement aux convois remorqués transportant des matières inflammables.",
+      "Aire de stationnement réservée uniquement aux convois poussés transportant des matières inflammables.",
+      "Aire de stationnement réservée à tous les bateaux transportant des matières inflammables."
+    ],
+    "correct": [
+      "Aire de stationnement réservée à tous les bateaux transportant des matières inflammables."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/pf264.png"
+  },
+  {
+    "section": "Signalisation",
+    "question": "Ce feu rouge indique :",
+    "answers": [
+      "Interdiction de passer.",
+      "Interdiction de stationner.",
+      "Interdiction de faire des remous."
+    ],
+    "correct": [
+      "Interdiction de passer."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation1/pf310.png"
+  },
+  {
+    "section": "Signalisation",
+    "question": "Que signifie ce panneau d'indication ?",
+    "answers": [
+      "Aire de stationnement réservée au chargement et au déchargement des véhicules.",
+      "Aire de stationnement abritée pour les véhicules.",
+      "Aire de lavages des véhicules."
+    ],
+    "correct": [
+      "Aire de stationnement réservée au chargement et au déchargement des véhicules."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation1/pf387.png"
+  },
+  {
+    "section": "Signalisation",
+    "question": "Quelle est la signification exacte de ce panneau ?",
+    "answers": [
+      "obligation de prendre la direction donnée par la flèche.",
+      "obligation de se diriger vers la droite du chenal.",
+      "obligation de tenir le côté droit du chenal.",
+      "obligation de croiser le chenal vers tribord."
+    ],
+    "correct": [
+      "obligation de se diriger vers la droite du chenal."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation2/Q21.PNG"
+  },
+  {
+    "section": "Signalisation",
+    "question": "Sous quelle arche ne verrez-vous pas d'autre bateau arriver en sens inverse du vôtre ?",
+    "answers": [
+      "Sous l'arche A.",
+      "Sous l'arche B.",
+      "Sous l'arche C."
+    ],
+    "correct": [
+      "Sous l'arche B."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation1/pf372.png"
+  },
+  {
+    "section": "Signalisation",
+    "question": "Ceci est un panneau indiquant :",
+    "answers": [
+      "Aire de stationnement réservée uniquement aux pousseurs transportant des matières explosives.",
+      "Aire de stationnement réservée à tous les bateaux transportant des matières explosives.",
+      "Aire de stationnement réservée uniquement aux remorqueurs transportant des matières explosives."
+    ],
+    "correct": [
+      "Aire de stationnement réservée à tous les bateaux transportant des matières explosives."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/pf266.png"
+  },
+  {
+    "section": "Signalisation",
+    "question": "Ces 2 feux rouges signifient :",
+    "answers": [
+      "Interdiction de passer. L'interdiction va être prolongée.",
+      "Interdiction de passer. L'interdiction va être passagère.",
+      "Interdiction de passer sauf pour les menues embarcations."
+    ],
+    "correct": [
+      "Interdiction de passer. L'interdiction va être passagère."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation1/pf309.png"
+  },
+  {
+    "section": "Signalisation",
+    "question": "Ces 2 pavillons rouges signifient :",
+    "answers": [
+      "Interdiction de faire des remous.",
+      "Interdiction de passer pour les convois.",
+      "Interdiction prolongée de passer."
+    ],
+    "correct": [
+      "Interdiction prolongée de passer."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation1/pf313.png"
+  },
+  {
+    "section": "Signalisation",
+    "question": "Quelle est la signification de ce panneau ?",
+    "answers": [
+      "Obligation de ne pas dépasser 11 km/h.",
+      "Obligation de ne pas dépasser 11 km/h lorsque vous faites usage de la VHF.",
+      "Obligation d'entrer en liaison radiotéléphonique sur le canal 11."
+    ],
+    "correct": [
+      "Obligation d'entrer en liaison radiotéléphonique sur le canal 11."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation2/pf331.png"
+  },
+  {
+    "section": "Signalisation",
+    "question": "Que vous indique ce pavillon rouge ?",
+    "answers": [
+      "Interdiction de passer.",
+      "Section désaffectée.",
+      "Écluse en travaux."
+    ],
+    "correct": [
+      "Interdiction de passer."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation1/pf312.png"
+  },
+  {
+    "section": "Balisage",
+    "question": "Après la bifurcation, quel est le chenal à emprunter de préférence ?",
+    "answers": [
+      "Chenal A.",
+      "Chenal B."
+    ],
+    "correct": [
+      "Chenal A."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_balisage/pf246.png"
+  },
+  {
+    "section": "Balisage",
+    "question": "Il s'agit d'un panneau :",
+    "answers": [
+      "d'arche marinière.",
+      "de balisage de plage.",
+      "de balisage de traversée."
+    ],
+    "correct": [
+      "de balisage de traversée."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_balisage/pf242.png"
+  },
+  {
+    "section": "Balisage",
+    "question": "Qu'indique ce collier de bouées jaunes ?",
+    "answers": [
+      "Une zone de baignade.",
+      "Un chenal d'accès à la plage.",
+      "Un banc de sable."
+    ],
+    "correct": [
+      "Une zone de baignade."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_balisage/Q29.png"
+  },
+  {
+    "section": "Balisage",
+    "question": "Sur un grand plan d'eau, vous arrivez devant cette bouée.",
+    "answers": [
+      "C'est une cardinale Est.",
+      "C'est une cardinale Ouest.",
+      "Je passe à l'Ouest, le danger est à l'Est.",
+      "Je passe à l'Est, le danger est à l'Ouest."
+    ],
+    "correct": [
+      "C'est une cardinale Est.",
+      "Je passe à l'Est, le danger est à l'Ouest."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_balisage/pf281.png"
+  },
+  {
+    "section": "Balisage",
+    "question": "Sur un grand plan d'eau, vous rencontrez cette balise.",
+    "answers": [
+      "C'est une cardinale Nord.",
+      "C'est une cardinale Sud.",
+      "Je passe au Nord, le danger est au Sud.",
+      "Je passe au Sud, le danger est au Nord."
+    ],
+    "correct": [
+      "C'est une cardinale Nord.",
+      "Je passe au Nord, le danger est au Sud."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_balisage/pf279.png"
+  },
+  {
+    "section": "Balisage",
+    "question": "Ce bateau est avalant.",
+    "answers": [
+      "Il passe du bon côté de la balise.",
+      "Il passe du mauvais côté de la balise."
+    ],
+    "correct": [
+      "Il passe du mauvais côté de la balise."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_balisage/q354.png"
+  },
+  {
+    "section": "Balisage",
+    "question": "Cap au 195 :",
+    "answers": [
+      "Je laisse sur ma droite.",
+      "Je laisse sur ma gauche.",
+      "Je laisse indifféremment à droite ou à gauche."
+    ],
+    "correct": [
+      "Je laisse sur ma gauche."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/Test_cardinales/nc_11.png"
+  },
+  {
+    "section": "Balisage",
+    "question": "Naviguant sur un grand plan d'eau, vous arrivez devant cette balise.",
+    "answers": [
+      "C'est une cardinale Est.",
+      "C'est une cardinale Ouest.",
+      "Je passe à l'Est, le danger est à l'Ouest.",
+      "Je passe à l'Ouest, le danger est à l'Est."
+    ],
+    "correct": [
+      "C'est une cardinale Ouest.",
+      "Je passe à l'Ouest, le danger est à l'Est."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_balisage/pf282.png"
+  },
+  {
+    "section": "Balisage",
+    "question": "Cap au Nord,",
+    "answers": [
+      "Je vais à droite.",
+      "Je vais à gauche",
+      "Je vais indifféremment à droite ou à gauche."
+    ],
+    "correct": [
+      "Je vais à droite."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/Test_cardinales/Q22.png"
+  },
+  {
+    "section": "Balisage",
+    "question": "Cap à l'Est,",
+    "answers": [
+      "je vais à droite.",
+      "je vais à gauche."
+    ],
+    "correct": [
+      "je vais à gauche."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_autre/divers_32.png"
+  },
+  {
+    "section": "Balisage",
+    "question": "Sur un grand plan d'eau, cette balise devant vous.",
+    "answers": [
+      "C'est une cardinale Nord.",
+      "C'est une cardinale Sud",
+      "Je passe au Sud, le danger est au Nord.",
+      "Je passe au Nord, le danger est au Sud."
+    ],
+    "correct": [
+      "C'est une cardinale Sud",
+      "Je passe au Sud, le danger est au Nord."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_balisage/pf280.png"
+  },
+  {
+    "section": "Balisage",
+    "question": "Ce bateau est montant.",
+    "answers": [
+      "Il passe du bon côté de la balise.",
+      "Il passe du mauvais côté de la balise."
+    ],
+    "correct": [
+      "Il passe du bon côté de la balise."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_balisage/q355.png"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Dans ces conditions, doit-il entrer dans l'écluse avant ou après la péniche ?",
+    "answers": [
+      "Le bateau de plaisance entre avant la péniche.",
+      "Le bateau de plaisance entre après la péniche."
+    ],
+    "correct": [
+      "Le bateau de plaisance entre après la péniche."
+    ]
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Pouvez-vous naviguer dans la brume ?",
+    "answers": [
+      "Oui.",
+      "Non, je dois rejoindre immédiatement le point de stationnement le plus proche."
+    ],
+    "correct": [
+      "Non, je dois rejoindre immédiatement le point de stationnement le plus proche."
+    ]
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Sur une rivière ou un canal, la menue embarcation B rattrape la menue embarcation A.",
+    "answers": [
+      "Le bateau A doit faciliter le dépassement dans la mesure du possible.",
+      "Le bateau A peut diminuer sa vitesse pour que le dépassement se fasse plus rapidement.",
+      "Le bateau B ne doit pas dépasser.",
+      "Le bateau B doit émettre les signaux sonores règlementaires de dépassement."
+    ],
+    "correct": [
+      "Le bateau A doit faciliter le dépassement dans la mesure du possible.",
+      "Le bateau A peut diminuer sa vitesse pour que le dépassement se fasse plus rapidement."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_regles_barre/pf337.png"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Une menue embarcation à rame a la priorité vis à vis des menues embarcations à moteur.",
+    "answers": [
+      "Vrai.",
+      "Faux."
+    ],
+    "correct": [
+      "Vrai."
+    ]
+  },
+  {
+    "section": "Règles de barre",
+    "question": "En cas de croisement de chenal :",
+    "answers": [
+      "les montants sont prioritaires.",
+      "les montants doivent ralentir ou s'arrêter pour permettre aux avalants d'effectuer leur manœuvre."
+    ],
+    "correct": [
+      "les montants doivent ralentir ou s'arrêter pour permettre aux avalants d'effectuer leur manœuvre."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_signalisation2/Q20.PNG"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Sur un fleuve, qui doit manœuvrer ?",
+    "answers": [
+      "L'automoteur A.",
+      "La menue embarcation à voile B."
+    ],
+    "correct": [
+      "La menue embarcation à voile B."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_regles_barre/pf216.png"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Que vous indique cet automoteur ?",
+    "answers": [
+      "Il transporte des matières inflammables.",
+      "Vous devez le croiser tribord sur tribord.",
+      "Vous devez le croiser bâbord sur bâbord."
+    ],
+    "correct": [
+      "Vous devez le croiser tribord sur tribord."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/q200.png"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Que faites-vous face à ce bateau ?",
+    "answers": [
+      "Je conserve mon cap et ma vitesse.",
+      "Je viens à droite.",
+      "Je viens à gauche."
+    ],
+    "correct": [
+      "Je viens à gauche."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/q200.png"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Sur un plan d'eau, entre ces 2 embarcations, laquelle est prioritaire ?",
+    "answers": [
+      "Le Véhicule Nautique à Moteur (VNM).",
+      "La planche à voile."
+    ],
+    "correct": [
+      "La planche à voile."
+    ]
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Les bateaux avalants doivent céder le passage aux bateaux montants.",
+    "answers": [
+      "Vrai pour tous les bateaux.",
+      "Vrai pour tous les bateaux sauf menues embarcations.",
+      "Faux."
+    ],
+    "correct": [
+      "Faux."
+    ]
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Sur une voie fluviale, quel est le bateau prioritaire ?",
+    "answers": [
+      "L'automoteur A.",
+      "La menue embarcation à voile B."
+    ],
+    "correct": [
+      "L'automoteur A."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_regles_barre/pf216.png"
+  },
+  {
+    "section": "Règles de barre",
+    "question": "Sur les lacs et grands plans d'eau, les règles de barre et de route sont :",
+    "answers": [
+      "les mêmes que sur les fleuves.",
+      "les mêmes qu'en mer."
+    ],
+    "correct": [
+      "les mêmes qu'en mer."
+    ]
+  },
+  {
+    "section": "Feux et marques",
+    "question": "De quel bateau s'agit-il ?",
+    "answers": [
+      "Remorqueur.",
+      "Pousseur transportant des matières explosibles vu de l'avant.",
+      "Pousseur transportant des matières inflammables vu de l'arrière."
+    ],
+    "correct": [
+      "Pousseur transportant des matières inflammables vu de l'arrière."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/q32.png"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "De jour, quelles sont les marques portées par un convoi poussé ?",
+    "answers": [
+      "Aucune marque particulière.",
+      "Un cylindre jaune.",
+      "3 boules noires en triangle."
+    ],
+    "correct": [
+      "Aucune marque particulière."
+    ]
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Quels signaux indiquent un bateau incapable de manœuvrer ?",
+    "answers": [
+      "Un feu orange.",
+      "Un feu rouge clignotant.",
+      "Deux feux rouges superposés.",
+      "Un feu rouge balancé en demi-cercle."
+    ],
+    "correct": [
+      "Deux feux rouges superposés.",
+      "Un feu rouge balancé en demi-cercle."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/qpf363.png"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Identifiez ce bateau.",
+    "answers": [
+      "Bateau transportant des matières explosibles.",
+      "Bateau de transport public de passagers.",
+      "Bateau d'autorités.",
+      "Bateau prioritaire aux écluses."
+    ],
+    "correct": [
+      "Bateau de transport public de passagers.",
+      "Bateau prioritaire aux écluses."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/q185.png"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Vus sur un navire, ces 2 feux bleus superposés indiquent :",
+    "answers": [
+      "le navire transporte des matières dangereuses pour la santé.",
+      "le navire est prioritaire aux écluses.",
+      "c'est un navire d'autorité."
+    ],
+    "correct": [
+      "le navire transporte des matières dangereuses pour la santé."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/q28.png"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Vous croisez cet engin flottant. De quel côté devez-vous passer ?",
+    "answers": [
+      "Je passe en A.",
+      "Je passe en B.",
+      "Je passe indifféremment en A ou B."
+    ],
+    "correct": [
+      "Je passe en A."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/pf274.png"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Ce bateau navigue selon la règle du drapeau bleu.",
+    "answers": [
+      "Vrai.",
+      "Faux."
+    ],
+    "correct": [
+      "Faux."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/q30.png"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Quel est ce bâtiment que vous rattrapez ?",
+    "answers": [
+      "Convoi poussé transportant des matières explosives.",
+      "Convoi poussé transportant des matières dangereuses pour la santé.",
+      "Convoi poussé transportant des matières inflammables."
+    ],
+    "correct": [
+      "Convoi poussé transportant des matières explosives."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/q34.png"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Ces marques vues sur un bateau indiquent :",
+    "answers": [
+      "un bateau échoué.",
+      "un bateau incapable de manœuvrer.",
+      "un bateau dont la capacité de manœuvre est restreinte."
+    ],
+    "correct": [
+      "un bateau dont la capacité de manœuvre est restreinte."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_regles_barre/Q21.png"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Qu'indiquent ces feux ?",
+    "answers": [
+      "Un engin flottant au travail ou un bateau effectuant des travaux.",
+      "Un remorqueur vu par bâbord.",
+      "Un bateau motorisé de plus de 110 mètres."
+    ],
+    "correct": [
+      "Un engin flottant au travail ou un bateau effectuant des travaux."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/pf323.png"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Quelle est la bonne combinaison des marques pour ces deux bateaux ?",
+    "answers": [
+      "A.",
+      "B.",
+      "C."
+    ],
+    "correct": [
+      "A."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/pf335.png"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "De jour, quelle marque doit montrer un voilier naviguant simultanément à la voile et au moteur ?",
+    "answers": [
+      "Aucune marque.",
+      "Un cylindre noir.",
+      "Un cône noir pointe en bas."
+    ],
+    "correct": [
+      "Un cône noir pointe en bas."
+    ]
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Je dois allumer les feux du bateau :",
+    "answers": [
+      "dès la tombée du jour.",
+      "par temps brumeux.",
+      "tout le temps."
+    ],
+    "correct": [
+      "dès la tombée du jour.",
+      "par temps brumeux."
+    ]
+  },
+  {
+    "section": "Feux et marques",
+    "question": "De nuit, un bateau montre ces feux. C'est :",
+    "answers": [
+      "un bateau en action de pêche.",
+      "un bateau à protéger des remous.",
+      "un bateau en service de pilotage."
+    ],
+    "correct": [
+      "un bateau en service de pilotage."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/qpf373.png"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "De quoi s'agit-il ?",
+    "answers": [
+      "Un bac jouissant d'une priorité.",
+      "Un bateau en action de pêche.",
+      "Un engin flottant au travail avec passage libre d'un côté."
+    ],
+    "correct": [
+      "Un engin flottant au travail avec passage libre d'un côté."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/pf275.png"
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Que doit montrer un bateau de plaisance amarré de nuit le long de la berge ?",
+    "answers": [
+      "Rien, s'il est dans une zone suffisamment éclairée.",
+      "Un feu blanc du côté opposé à la rive.",
+      "Un feu rouge clignotant."
+    ],
+    "correct": [
+      "Rien, s'il est dans une zone suffisamment éclairée.",
+      "Un feu blanc du côté opposé à la rive."
+    ]
+  },
+  {
+    "section": "Feux et marques",
+    "question": "Quel bateau porte ces deux feux rouges superposés ?",
+    "answers": [
+      "Bateau incapable de manœuvrer.",
+      "Bateau transportant des matières dangereuses pour la santé.",
+      "Bateau prioritaire aux écluses.",
+      "Bateau à protéger contre les remous."
+    ],
+    "correct": [
+      "Bateau incapable de manœuvrer."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_feux/Q28.png"
+  },
+  {
+    "section": "Sécurité",
+    "question": "Quelle est la vitesse maximum autorisée sur une voie intérieure ?",
+    "answers": [
+      "5 nœuds.",
+      "6 km/h.",
+      "12 km/h.",
+      "La vitesse est fixée par le règlement particulier de police de la voie."
+    ],
+    "correct": [
+      "La vitesse est fixée par le règlement particulier de police de la voie."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Quel est le temps nécessaire à la dégradation d'un sac en plastique ?",
+    "answers": [
+      "De 2 à 10 ans.",
+      "De 20 à 50 ans.",
+      "De 100 à 500 ans."
+    ],
+    "correct": [
+      "De 100 à 500 ans."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/pf317.jpg"
+  },
+  {
+    "section": "Sécurité",
+    "question": "Pouvez-vous naviguer la nuit ?",
+    "answers": [
+      "Oui.",
+      "Non."
+    ],
+    "correct": [
+      "Oui."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Vous pouvez consulter les avis à la batellerie :",
+    "answers": [
+      "en mairie.",
+      "dans les services de navigation.",
+      "aux écluses gardées.",
+      "dans les Directions Départementales des Territoires."
+    ],
+    "correct": [
+      "dans les services de navigation.",
+      "aux écluses gardées."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/q172.jpg"
+  },
+  {
+    "section": "Sécurité",
+    "question": "Qu'est-ce que le RPP ?",
+    "answers": [
+      "Le Règlement des Péniches de Plaisance.",
+      "Le Règlement des Ports de Plaisance.",
+      "Le Règlement Particulier de Police.",
+      "Le Règlement Préféctoral de Plaisance."
+    ],
+    "correct": [
+      "Le Règlement Particulier de Police."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "En cas d'incident ayant causé une fuite de polluant, qui faut-il prévenir ?",
+    "answers": [
+      "La police municipale.",
+      "La police nationale.",
+      "Le service gestionnaire du plan d'eau.",
+      "Les pompiers."
+    ],
+    "correct": [
+      "Le service gestionnaire du plan d'eau.",
+      "Les pompiers."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Lorsque vous faites le plein du réservoir :",
+    "answers": [
+      "je répands du détergent en cas de débordement.",
+      "j'utilise un entonnoir pour éviter les débordements."
+    ],
+    "correct": [
+      "j'utilise un entonnoir pour éviter les débordements."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "À l'approche d'un barrage :",
+    "answers": [
+      "je fais demi-tour rapidement.",
+      "je jette l'ancre.",
+      "je redouble de vigilance.",
+      "j'appelle l'éclusier."
+    ],
+    "correct": [
+      "je redouble de vigilance."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Dans la brume :",
+    "answers": [
+      "tous les bateaux doivent naviguer au radar.",
+      "seuls les bâtiments de commerce doivent naviguer au radar."
+    ],
+    "correct": [
+      "tous les bateaux doivent naviguer au radar."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Pour une navigation au delà de 3700m de la rive, quelle est la flottabilité minimum imposée pour l'équipement individuel de flottabilité (EIF) ?",
+    "answers": [
+      "50 newtons.",
+      "100 newtons.",
+      "150 newtons."
+    ],
+    "correct": [
+      "100 newtons."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/pf377.png"
+  },
+  {
+    "section": "Sécurité",
+    "question": "Quelles sont les informations diffusées par un avis à la batellerie ?",
+    "answers": [
+      "L'annonce de la tenue d'une manifestation nautique.",
+      "La règlementation générale de la voie.",
+      "l'interdiction de navigation causée par une crue.",
+      "la liste du matériel de sécurité obligatoire."
+    ],
+    "correct": [
+      "L'annonce de la tenue d'une manifestation nautique.",
+      "l'interdiction de navigation causée par une crue."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/q172.jpg"
+  },
+  {
+    "section": "Sécurité",
+    "question": "Le permis bateau option \"eaux intérieures\" vous permet de piloter des bateaux jusqu'à 25 mètres.",
+    "answers": [
+      "Vrai.",
+      "Faux."
+    ],
+    "correct": [
+      "Faux."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Vous pouvez piloter à grande vitesse un véhicule nautique à moteur :",
+    "answers": [
+      "partout hors agglomérations.",
+      "uniquement sur les lacs et grand plans d'eau.",
+      "dans les zones règlementées et prévues pour cette pratique."
+    ],
+    "correct": [
+      "dans les zones règlementées et prévues pour cette pratique."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_autre/Q3.JPG"
+  },
+  {
+    "section": "Sécurité",
+    "question": "Pour une petite embarcation, il est conseillé de :",
+    "answers": [
+      "stationner près des portes amont.",
+      "stationner près des portes aval.",
+      "rester au milieu de l'écluse sans s'amarrer.",
+      "de jeter l'ancre."
+    ],
+    "correct": [
+      "stationner près des portes aval."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "La vitesse excessive sur une voie d'eau peut-elle provoquer la dégradation des berges ?",
+    "answers": [
+      "Oui, à cause des vagues créées par la vitesse.",
+      "Non. Seules les crues abîment les berges."
+    ],
+    "correct": [
+      "Oui, à cause des vagues créées par la vitesse."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "En navigation, quelle est la distance de sécurité à respecter ?",
+    "answers": [
+      "10 mètres minimum.",
+      "50 mètres minimum.",
+      "100 mètres minimum."
+    ],
+    "correct": [
+      "50 mètres minimum."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/q162.png"
+  },
+  {
+    "section": "Sécurité",
+    "question": "Votre bateau dérive dangereusement. Quelle est la première chose à faire ?",
+    "answers": [
+      "Attendre un bateau croiseur pour lui demander assistance.",
+      "Émettre des volées de cloche.",
+      "Jeter l'ancre.",
+      "Tenter de redémarrer le moteur."
+    ],
+    "correct": [
+      "Jeter l'ancre."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Sur un bateau, vous voyez une personne qui agite les bras de haut en bas :",
+    "answers": [
+      "Elle a besoin d'assistance.",
+      "Elle fait sa gymnastique.",
+      "Elle vous dit bonjour.",
+      "Elle indique que le bateau est incapable de manœuvrer."
+    ],
+    "correct": [
+      "Elle a besoin d'assistance."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_signaux/Q5.gif"
+  },
+  {
+    "section": "Sécurité",
+    "question": "Pendant les périodes de chômage, les bateaux :",
+    "answers": [
+      "ont interdiction de naviguer.",
+      "doivent quitter le canal rapidement.",
+      "peuvent naviguer sur les biefs restés en eaux."
+    ],
+    "correct": [
+      "peuvent naviguer sur les biefs restés en eaux."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "L'amarrage sur les arbres est-il autorisé ?",
+    "answers": [
+      "Oui, mais de jour uniquement.",
+      "Oui, juste le temps d'attendre l'ouverture de l'écluse.",
+      "Oui, en cas de détresse.",
+      "Non, jamais."
+    ],
+    "correct": [
+      "Non, jamais."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/q1.png"
+  },
+  {
+    "section": "Sécurité",
+    "question": "Lors du sassement, il faut :",
+    "answers": [
+      "s'amarrer.",
+      "jeter l'ancre.",
+      "utiliser les défenses mobiles et flottantes."
+    ],
+    "correct": [
+      "s'amarrer.",
+      "utiliser les défenses mobiles et flottantes."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Pouvez-vous vous aider des panneaux de signalisation pour déhaler votre bateau ?",
+    "answers": [
+      "Non.",
+      "Oui, pour toutes les menues embarcations.",
+      "Oui, pour les embarcations de sport."
+    ],
+    "correct": [
+      "Non."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Pouvez-vous piloter en mer un bateau à moteur de plus de 6cv ?",
+    "answers": [
+      "Non, pas du tout.",
+      "Oui, mais dans la limite de 2 milles maximum d'un abri",
+      "Oui, mais dans la limite de 6 milles maximum d'un abri."
+    ],
+    "correct": [
+      "Non, pas du tout."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Avez-vous le droit de débarquer lors du passage aux écluses gardées ?",
+    "answers": [
+      "Oui.",
+      "Non, sauf autorisation particulière du personnel chargé de la manœuvre."
+    ],
+    "correct": [
+      "Non, sauf autorisation particulière du personnel chargé de la manœuvre."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Une menue embarcation de plaisance peut-elle être éclusée en même temps que le bâtiment déjà entré dans le sas ?",
+    "answers": [
+      "Oui, sans condition.",
+      "Oui, mais en stationnant à au moins 10 mètres.",
+      "Non."
+    ],
+    "correct": [
+      "Non."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/q237.png"
+  },
+  {
+    "section": "Sécurité",
+    "question": "Que faites-vous ?",
+    "answers": [
+      "En tant que menue embarcation, je peux continuer mon trajet prévu mais en réduisant ma vitesse.",
+      "Je dois me rendre immédiatement au poste d'amarrage ou d'ancrage le plus proche."
+    ],
+    "correct": [
+      "Je dois me rendre immédiatement au poste d'amarrage ou d'ancrage le plus proche."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Vous devez vous conformer aux consignes données par l'éclusier.",
+    "answers": [
+      "Vrai.",
+      "Faux, seul le RGP fait foi."
+    ],
+    "correct": [
+      "Vrai."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Le niveau d'eau atteint ce signal :",
+    "answers": [
+      "C'est le niveau d'eau normal.",
+      "Il y a une crue, la navigation est soumise à des prescriptions spéciales.",
+      "Il y a une crue, la navigation est interdite."
+    ],
+    "correct": [
+      "Il y a une crue, la navigation est soumise à des prescriptions spéciales."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/q152.png"
+  },
+  {
+    "section": "Sécurité",
+    "question": "Quel est l'ordre règlementaire pour le sassement ?",
+    "answers": [
+      "1 - 2 - 3",
+      "3 - 2 - 1",
+      "2 - 3 - 1",
+      "3 - 1 - 2"
+    ],
+    "correct": [
+      "2 - 3 - 1"
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/q194.png"
+  },
+  {
+    "section": "Sécurité",
+    "question": "Sur certaines voies, le port du gilet de sauvetage est obligatoire lors du passage des écluses.",
+    "answers": [
+      "Vrai.",
+      "Faux."
+    ],
+    "correct": [
+      "Vrai."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Les documents obligatoires à bord sont :",
+    "answers": [
+      "le permis de conduire bateau.",
+      "le titre de circulation.",
+      "le certificat de conformité du bateau.",
+      "l'acte de vente du bateau."
+    ],
+    "correct": [
+      "le permis de conduire bateau.",
+      "le titre de circulation."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Que signifie RGP ?",
+    "answers": [
+      "Règlement Général de Police.",
+      "Réservé à la Grande Plaisance.",
+      "Rassemblement d'un Groupe de Pousseurs.",
+      "Règlement Général de la Plaisance."
+    ],
+    "correct": [
+      "Règlement Général de Police."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Vous naviguez sur une rivière canalisée. En cas de crue, prenez-vous des précautions ?",
+    "answers": [
+      "Non aucune puisque qu'il ne peut pas y avoir de crue sur une rivière canalisée.",
+      "Oui."
+    ],
+    "correct": [
+      "Oui."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "La navigation sur le réseau des Voies Navigables de France est gratuite.",
+    "answers": [
+      "Oui, pour tous les bateaux.",
+      "Oui, pour les navires immatriculés en mer.",
+      "Non, pas pour les bateaux de plus de 5 mètres OU d'une puissance supérieure ou égale à 9,9 cv."
+    ],
+    "correct": [
+      "Non, pas pour les bateaux de plus de 5 mètres OU d'une puissance supérieure ou égale à 9,9 cv."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/q3.png"
+  },
+  {
+    "section": "Sécurité",
+    "question": "Quels sont les risques qui se présentent en arrivant à l'amont d'un barrage ?",
+    "answers": [
+      "Aucun risque notable.",
+      "Accélération du courant.",
+      "Lames de fond et vagues déferlantes.",
+      "Difficultés pour virer."
+    ],
+    "correct": [
+      "Accélération du courant.",
+      "Difficultés pour virer."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Pour une navigation jusqu'à 3700m de la rive, quelle est la flottabilité minimum imposée pour l'équipement individuel de flottabilité (EIF) ?",
+    "answers": [
+      "50 newtons.",
+      "100 newtons.",
+      "150 newtons."
+    ],
+    "correct": [
+      "50 newtons."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/pf376.png"
+  },
+  {
+    "section": "Sécurité",
+    "question": "Toutes les écluses sont ouvertes 7 jours sur 7 toute l'année.",
+    "answers": [
+      "Vrai.",
+      "Faux."
+    ],
+    "correct": [
+      "Faux."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Quelle est la longueur maximum des bateaux que vous pouvez piloter avec un permis plaisance ?",
+    "answers": [
+      "12 mètres.",
+      "15 mètres.",
+      "19,99 mètres.",
+      "24.99 mètres."
+    ],
+    "correct": [
+      "19,99 mètres."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Qu’est-ce que le CEVNI ?",
+    "answers": [
+      "Le Comité d’Études des Voies Navigables Internationales.",
+      "Le Code dont s’inspire le Règlement Général de Police (R.G.P.)",
+      "Le Code Européen des Voies Navigables Intérieures."
+    ],
+    "correct": [
+      "Le Code dont s’inspire le Règlement Général de Police (R.G.P.)",
+      "Le Code Européen des Voies Navigables Intérieures."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Sur le lac Léman et les eaux intérieures exposées, il faut un supplément de matériel de sécurité par rapport à celui exigé en eaux intérieures abritées.",
+    "answers": [
+      "Vrai.",
+      "Faux."
+    ],
+    "correct": [
+      "Vrai."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_securite_mer/q5.jpg"
+  },
+  {
+    "section": "Sécurité",
+    "question": "En cas d'urgence, quels numéros pouvez-vous appeler ?",
+    "answers": [
+      "3616.",
+      "112.",
+      "18.",
+      "196."
+    ],
+    "correct": [
+      "112.",
+      "18."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Ce symbole signifie :",
+    "answers": [
+      "Pas plus de 2 bateaux côte à côte.",
+      "Le nombre de barges d'un convoi poussé est limité à 2.",
+      "Marque de crue niveau 2."
+    ],
+    "correct": [
+      "Marque de crue niveau 2."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/q149.png"
+  },
+  {
+    "section": "Sécurité",
+    "question": "Dans la zone marquée par ce panneau, il y a :",
+    "answers": [
+      "Interdiction de pratiquer le ski nautique avec un bateau à moteur.",
+      "Interdiction de faire du sport près des berges.",
+      "Interdiction de se baigner.",
+      "Interdiction de navigation pour les embarcations de sport ou de plaisance."
+    ],
+    "correct": [
+      "Interdiction de pratiquer le ski nautique avec un bateau à moteur.",
+      "Interdiction de navigation pour les embarcations de sport ou de plaisance."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/q154.png"
+  },
+  {
+    "section": "Sécurité",
+    "question": "Qu'est-ce qu'un site Natura 2000 ?",
+    "answers": [
+      "C'est un site de préservation de la diversité biologique et de valorisation du patrimoine naturel.",
+      "C'est une zone naturelle où la navigation est interdite.",
+      "C'est un site naturel conservé en l'état qu'il était en l'an 2000.",
+      "C'est un site réservé à l'observation des oiseaux volant dans un ciel étoilé."
+    ],
+    "correct": [
+      "C'est un site de préservation de la diversité biologique et de valorisation du patrimoine naturel."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_autre/q487.png"
+  },
+  {
+    "section": "Sécurité",
+    "question": "Les avis à la batellerie sont consultables :",
+    "answers": [
+      "par téléphone (sur répondeur).",
+      "sur internet (site VNF par exemple).",
+      "par radio VHF.",
+      "par voie d'affichage."
+    ],
+    "correct": [
+      "sur internet (site VNF par exemple).",
+      "par voie d'affichage."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/q172.jpg"
+  },
+  {
+    "section": "Sécurité",
+    "question": "Pouvez-vous naviguer dans un bief ?",
+    "answers": [
+      "Oui, uniquement de jour.",
+      "Oui, de jour comme de nuit.",
+      "Non."
+    ],
+    "correct": [
+      "Oui, de jour comme de nuit."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Lors d'un éclusage, l'utilisation d'une gaffe ferrée est :",
+    "answers": [
+      "recommandée.",
+      "obligatoire.",
+      "interdite.",
+      "inutile."
+    ],
+    "correct": [
+      "interdite."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Quel est le document qui définit les règles locales de navigation ?",
+    "answers": [
+      "Le Règlement Général de Police.",
+      "Le Règlement Particulier de Police.",
+      "Le règlement Local de Police.",
+      "Le règlement Départemental de Police."
+    ],
+    "correct": [
+      "Le Règlement Particulier de Police."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Pouvez-vous être éclusé en même temps que le bâtiment déjà entré dans le sas ?",
+    "answers": [
+      "Oui.",
+      "Non."
+    ],
+    "correct": [
+      "Non."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/q235.png"
+  },
+  {
+    "section": "Sécurité",
+    "question": "Pourquoi l'amarrage de ce bateau n'est-il pas correct ?",
+    "answers": [
+      "Il est amarré aux arbres.",
+      "Le chemin de halage est barré par les amarres.",
+      "Le bateau est stationné à gauche."
+    ],
+    "correct": [
+      "Il est amarré aux arbres.",
+      "Le chemin de halage est barré par les amarres."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/q1.png"
+  },
+  {
+    "section": "Sécurité",
+    "question": "À quelle distance minimum devez vous stationner par rapport aux bateaux portant cette marque ?",
+    "answers": [
+      "5 mètres.",
+      "10 mètres.",
+      "50 mètres.",
+      "100 mètres."
+    ],
+    "correct": [
+      "100 mètres."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_feux_marques/Q8.PNG"
+  },
+  {
+    "section": "Sécurité",
+    "question": "Un dispositif d’assèchement fixe ou mobile est-il obligatoire ?",
+    "answers": [
+      "Oui, pour tous les bateaux de plaisance.",
+      "Oui, pour les bateaux non auto-videurs.",
+      "Oui, pour les bateaux habitables.",
+      "Non, c'est obligatoire seulement en mer."
+    ],
+    "correct": [
+      "Oui, pour les bateaux non auto-videurs.",
+      "Oui, pour les bateaux habitables."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Le bateau qui entrera en premier dans l'écluse est :",
+    "answers": [
+      "le bateau A.",
+      "la menue embarcation B."
+    ],
+    "correct": [
+      "le bateau A."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/q158.png"
+  },
+  {
+    "section": "Sécurité",
+    "question": "Un canal peut-il subir le phénomène de crue ?",
+    "answers": [
+      "Oui, c'est vrai pour tous les canaux.",
+      "Oui, mais seulement les canaux latéraux.",
+      "Non, les canaux ne sont jamais concernés par les crues."
+    ],
+    "correct": [
+      "Oui, mais seulement les canaux latéraux."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Les salissures sur la coque augmentent-t-elles la consommation de carburant ?",
+    "answers": [
+      "Oui.",
+      "Non."
+    ],
+    "correct": [
+      "Oui."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Sur une rivière canalisée devez-vous prendre des précautions particulières s'il y a une crue ?",
+    "answers": [
+      "Oui.",
+      "Non, les rivières canalisées ne sont pas sujettes aux crues.",
+      "Non, seuls les bateaux de commerce doivent prendre des précautions."
+    ],
+    "correct": [
+      "Oui."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Sur une rivière canalisée :",
+    "answers": [
+      "Il y a risque de crue.",
+      "Il n'y a aucun risque de crue."
+    ],
+    "correct": [
+      "Il y a risque de crue."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Quel est l'ordre d'entrée dans une écluse pour les menues embarcations ?",
+    "answers": [
+      "Avant les bateaux de commerce.",
+      "Après les bateaux de commerce.",
+      "Par ordre d'arrivée entre elles."
+    ],
+    "correct": [
+      "Après les bateaux de commerce.",
+      "Par ordre d'arrivée entre elles."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Vous voyez cette marque. Que faites-vous ?",
+    "answers": [
+      "Rien, je continue à naviguer comme si de rien n'était.",
+      "Je m'informe sur les prescriptions à suivre en cas de crue. La navigation pouvant être restreinte voire interdite."
+    ],
+    "correct": [
+      "Je m'informe sur les prescriptions à suivre en cas de crue. La navigation pouvant être restreinte voire interdite."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/q151.png"
+  },
+  {
+    "section": "Sécurité",
+    "question": "À l'approche d'un port :",
+    "answers": [
+      "je dois émettre un son prolongé.",
+      "je dois éviter de faire des remous.",
+      "Je dois jeter l'ancre."
+    ],
+    "correct": [
+      "je dois éviter de faire des remous."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "L'éclusier peut déroger aux règles de sassement du Règlement Général de Police.",
+    "answers": [
+      "Vrai.",
+      "Faux."
+    ],
+    "correct": [
+      "Vrai."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Le stationnement dans une écluse est autorisé :",
+    "answers": [
+      "uniquement pendant le sassement.",
+      "la nuit.",
+      "n'importe quand et sans limitation de durée."
+    ],
+    "correct": [
+      "uniquement pendant le sassement."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Les très grands lacs sont classés :",
+    "answers": [
+      "dans les eaux intérieures abritées.",
+      "dans les eaux intérieures exposées."
+    ],
+    "correct": [
+      "dans les eaux intérieures exposées."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Sur la rive d'une rivière vous apercevez ce symbole.",
+    "answers": [
+      "La rivière est à l'étiage.",
+      "La rivière est à son niveau moyen.",
+      "La rivière est en crue."
+    ],
+    "correct": [
+      "La rivière est en crue."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/q152.png"
+  },
+  {
+    "section": "Sécurité",
+    "question": "L'entretien régulier du moteur permet de diminuer la consommation de carburant.",
+    "answers": [
+      "Vrai.",
+      "Faux."
+    ],
+    "correct": [
+      "Vrai."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Cet automoteur pendant le sassement est :",
+    "answers": [
+      "montant.",
+      "avalant."
+    ],
+    "correct": [
+      "avalant."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/q193.png"
+  },
+  {
+    "section": "Sécurité",
+    "question": "Le matériel de sécurité exigé est différent selon que l'on navigue en eaux abritées, en eaux exposées ou sur le Lac Léman.",
+    "answers": [
+      "Vrai.",
+      "Faux."
+    ],
+    "correct": [
+      "Vrai."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_securite_mer/q5.jpg"
+  },
+  {
+    "section": "Sécurité",
+    "question": "Quel permis devez-vous posséder ?",
+    "answers": [
+      "Le permis plaisance option \"eaux intérieures\" seul.",
+      "Le permis plaisance option \"eaux intérieures\" avec extension \"grande plaisance\".",
+      "Il faut un permis professionnel."
+    ],
+    "correct": [
+      "Le permis plaisance option \"eaux intérieures\" avec extension \"grande plaisance\"."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "L'éclusier peut-il demander au 2ème bateau entré de sortir en premier ?",
+    "answers": [
+      "Oui.",
+      "Non."
+    ],
+    "correct": [
+      "Oui."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Dans quel ordre s'effectue l'éclusage entre bateaux de plaisance ?",
+    "answers": [
+      "Par ordre de grandeur du bateau : du plus petit au plus grand.",
+      "Par ordre de grandeur du bateau : du plus grand au plus petit.",
+      "Par ordre d'arrivée à l'écluse.",
+      "Selon l'âge du capitaine : du plus âgé au plus jeune."
+    ],
+    "correct": [
+      "Par ordre d'arrivée à l'écluse."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Pour nettoyer la coque de mon bateau, l'utilisation de produits à base de chlore est :",
+    "answers": [
+      "conseillée.",
+      "à proscrire."
+    ],
+    "correct": [
+      "à proscrire."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_autre/pc518.png"
+  },
+  {
+    "section": "Sécurité",
+    "question": "L'entretien du moteur permet de diminuer la consommation en carburant.",
+    "answers": [
+      "Vrai.",
+      "Faux."
+    ],
+    "correct": [
+      "Vrai."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "En plaisance, combien d'amarres sont obligatoires ?",
+    "answers": [
+      "1 minimum.",
+      "2 minimum.",
+      "3 minimum."
+    ],
+    "correct": [
+      "1 minimum."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/q5.jpg"
+  },
+  {
+    "section": "Sécurité",
+    "question": "Que signifie ce symbole ?",
+    "answers": [
+      "Marque de crue niveau 1.",
+      "La profondeur du chenal est limitée à 1 mètre.",
+      "Le tirant d'eau des bateaux ne doit pas excéder 1 mètre."
+    ],
+    "correct": [
+      "Marque de crue niveau 1."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/q148.png"
+  },
+  {
+    "section": "Sécurité",
+    "question": "En plaisance, l'équipement obligatoire à bord :",
+    "answers": [
+      "est le même partout en eaux intérieures.",
+      "change selon que l’on soit dans des eaux intérieurs abritées ou en eaux intérieurs exposées.",
+      "dépend de la longeur du bateau."
+    ],
+    "correct": [
+      "change selon que l’on soit dans des eaux intérieurs abritées ou en eaux intérieurs exposées."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Pendant le sassement, il est interdit de faire usage du moteur.",
+    "answers": [
+      "Vrai.",
+      "Faux."
+    ],
+    "correct": [
+      "Vrai."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "En l'absence de panneaux de limitation de vitesse :",
+    "answers": [
+      "la vitesse n'est pas limitée.",
+      "la vitesse est limitée par le Règlement Particulier de Police de l'itinéraire."
+    ],
+    "correct": [
+      "la vitesse est limitée par le Règlement Particulier de Police de l'itinéraire."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Le coupe-circuit :",
+    "answers": [
+      "n'est pas obligatoire.",
+      "est obligatoire pour un VNM, ou un hors-bord à barre franche, si la puissance du moteur est supérieure ou égale à 6 cv.",
+      "n'est obligatoire que sur les lacs et plans d'eau fermés."
+    ],
+    "correct": [
+      "est obligatoire pour un VNM, ou un hors-bord à barre franche, si la puissance du moteur est supérieure ou égale à 6 cv."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/q4.jpg"
+  },
+  {
+    "section": "Sécurité",
+    "question": "Le nombre maximum de personnes autorisées à bord est indiqué par :",
+    "answers": [
+      "la plaque du constructeur.",
+      "le chef de bord.",
+      "Le règlement général de police."
+    ],
+    "correct": [
+      "la plaque du constructeur."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Pouvez-vous vous amarrer aux balises de rive droite ?",
+    "answers": [
+      "Oui.",
+      "Non, seulement aux balises de rive gauche.",
+      "Non, il est interdit de s'amarrer aux balises."
+    ],
+    "correct": [
+      "Non, il est interdit de s'amarrer aux balises."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Pouvez-vous naviguer en eaux intérieures avec un bateau immatriculé en mer ?",
+    "answers": [
+      "Oui.",
+      "Oui, jusqu'au 1er obstacle.",
+      "Oui, en déclarant le navire aux autorités.",
+      "Non."
+    ],
+    "correct": [
+      "Oui."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Un bateau sans erre est-il manœuvrant ?",
+    "answers": [
+      "Oui.",
+      "Non."
+    ],
+    "correct": [
+      "Non."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Pouvez-vous naviguer jusqu'à 6 milles d'un abri ?",
+    "answers": [
+      "Oui, je peux naviguer en mer en tant que chef de bord.",
+      "Non, je ne peux naviguer en tant que chef de bord que jusqu'à 2 milles.",
+      "Oui, mais à condition de désigner un des équipiers comme chef de bord et laisser la barre."
+    ],
+    "correct": [
+      "Oui, mais à condition de désigner un des équipiers comme chef de bord et laisser la barre."
+    ]
+  },
+  {
+    "section": "Sécurité",
+    "question": "Dans quel ordre doit s'effectuer l'éclusage de ces bateaux ?",
+    "answers": [
+      "1 - 2 - 3",
+      "2 - 3 - 1",
+      "3 - 2 - 1",
+      "2 - 1 - 3"
+    ],
+    "correct": [
+      "2 - 1 - 3"
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/q165.png"
+  },
+  {
+    "section": "Sécurité",
+    "question": "Dans une écluse, l'utilisation des défenses (pare-battages) est :",
+    "answers": [
+      "conseillée.",
+      "obligatoire.",
+      "obligatoire seulement pour les navires de plus de 10 tonnes.",
+      "inutile."
+    ],
+    "correct": [
+      "obligatoire."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluvial_reglementation/q201.png"
+  },
+  {
+    "section": "Signaux sonores",
+    "question": "Un bateau va vous croiser. Il émet deux sons brefs.",
+    "answers": [
+      "Il va me croiser à tribord.",
+      "Il va me croiser à bâbord."
+    ],
+    "correct": [
+      "Il va me croiser à tribord."
+    ]
+  },
+  {
+    "section": "Signaux sonores",
+    "question": "Un bateau va vous croiser. Il émet un son bref.",
+    "answers": [
+      "Il va me croiser à tribord.",
+      "Il va me croiser à bâbord."
+    ],
+    "correct": [
+      "Il va me croiser à bâbord."
+    ]
+  },
+  {
+    "section": "Signaux sonores",
+    "question": "Un bateau émet une série de sons prolongés répétés. Que faites-vous ?",
+    "answers": [
+      "Je m'éloigne le plus rapidement possible.",
+      "Je me rapproche et porte assistance.",
+      "Je le laisse me dépasser."
+    ],
+    "correct": [
+      "Je me rapproche et porte assistance."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_fluv_regles_barre/pf283.png"
+  },
+  {
+    "section": "Signaux sonores",
+    "question": "Vous allez croiser un bateau qui émet un son bref. Que pouvez-vous lui répondre pour accuser réception ?",
+    "answers": [
+      "2 sons brefs.",
+      "1 son long.",
+      "1 son bref."
+    ],
+    "correct": [
+      "1 son bref."
+    ]
+  },
+  {
+    "section": "VHF",
+    "question": "Il faut vérifier le bon règlage du squelch à chaque changement de canal.",
+    "answers": [
+      "Vrai.",
+      "Faux."
+    ],
+    "correct": [
+      "Vrai."
+    ]
+  },
+  {
+    "section": "VHF",
+    "question": "La VHF utilise des ondes :",
+    "answers": [
+      "métriques.",
+      "décamétriques.",
+      "hectométriques."
+    ],
+    "correct": [
+      "métriques."
+    ]
+  },
+  {
+    "section": "VHF",
+    "question": "Je lance un message de détresse aux bateaux du voisinage :",
+    "answers": [
+      "sur le canal 10 du réseau bateau ↔ bateau.",
+      "sur le réseau des informations nautiques.",
+      "sur le réseau bateau ↔ autorités portuaires."
+    ],
+    "correct": [
+      "sur le canal 10 du réseau bateau ↔ bateau."
+    ]
+  },
+  {
+    "section": "VHF",
+    "question": "Votre navire est victime d'une voie d'eau importante. Quel type de message utilisez-vous ?",
+    "answers": [
+      "MAYDAY.",
+      "PAN PAN.",
+      "SÉCURITÉ.",
+      "SOS."
+    ],
+    "correct": [
+      "MAYDAY."
+    ]
+  },
+  {
+    "section": "VHF",
+    "question": "À bord, une personne est blessée. Pour demander une assistance médicale, vous utilisez :",
+    "answers": [
+      "MAYDAY.",
+      "PAN PAN.",
+      "SÉCURITÉ."
+    ],
+    "correct": [
+      "PAN PAN."
+    ]
+  },
+  {
+    "section": "VHF",
+    "question": "Que signifie \"PTT\" sur la touche du micro de la VHF ?",
+    "answers": [
+      "Parlez Tout Tranquillement.",
+      "Press To Transmit.",
+      "Appeler les Postes et Télécommunications."
+    ],
+    "correct": [
+      "Press To Transmit."
+    ]
+  },
+  {
+    "section": "VHF",
+    "question": "Le système d'identification ATIS concerne une utilisation :",
+    "answers": [
+      "uniquement en mer.",
+      "uniquement en eaux intérieures.",
+      "à la fois en mer et en eaux intérieures."
+    ],
+    "correct": [
+      "uniquement en eaux intérieures."
+    ]
+  },
+  {
+    "section": "VHF",
+    "question": "Dans les eaux françaises, l'utilisation d'une VHF portative non ASN de moins de 6 watts est :",
+    "answers": [
+      "libre.",
+      "soumise à la possession d'un permis plaisance ou du CRR.",
+      "obligatoire."
+    ],
+    "correct": [
+      "libre."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_vhf/q95.jpg"
+  },
+  {
+    "section": "VHF",
+    "question": "L'indicatif de la station désigne :",
+    "answers": [
+      "l'équipement VHF.",
+      "le bateau.",
+      "l'opérateur de la station."
+    ],
+    "correct": [
+      "le bateau."
+    ]
+  },
+  {
+    "section": "VHF",
+    "question": "Pouvez-vous utiliser votre VHF portative pour appeler vos équipiers qui vous attendent sur le bateau ?",
+    "answers": [
+      "Non, il est interdit d'utiliser la VHF à terre.",
+      "Non, la portée d'une VHF portative n'est pas suffisante.",
+      "Oui, la portée de la VHF est suffisante."
+    ],
+    "correct": [
+      "Non, il est interdit d'utiliser la VHF à terre."
+    ]
+  },
+  {
+    "section": "VHF",
+    "question": "Est-il approprié d'envoyer un message MAYDAY ?",
+    "answers": [
+      "Oui.",
+      "Non."
+    ],
+    "correct": [
+      "Non."
+    ]
+  },
+  {
+    "section": "VHF",
+    "question": "La portée des ondes VHF est limitée par :",
+    "answers": [
+      "le vent, sa force et sa direction.",
+      "la couverture nuageuse.",
+      "le rayon de courbure de la terre."
+    ],
+    "correct": [
+      "le rayon de courbure de la terre."
+    ]
+  },
+  {
+    "section": "VHF",
+    "question": "Je prends connaissance du mode d'emploi de ma VHF :",
+    "answers": [
+      "Dès son achat, pour ne pas être surpris en cas de pépin.",
+      "Uniquement en cas de détresse.",
+      "je révise l'utilisation de ma vhf régulièrement."
+    ],
+    "correct": [
+      "Dès son achat, pour ne pas être surpris en cas de pépin.",
+      "je révise l'utilisation de ma vhf régulièrement."
+    ]
+  },
+  {
+    "section": "VHF",
+    "question": "L'utilisation de la VHF portative sur la 1ère voie d'appel est :",
+    "answers": [
+      "autorisée pour tous les bateaux.",
+      "autorisée pour les bateaux professionnels.",
+      "autorisée seulement pour les menues embarcations."
+    ],
+    "correct": [
+      "autorisée seulement pour les menues embarcations."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_vhf/q96.jpg"
+  },
+  {
+    "section": "VHF",
+    "question": "Une VHF portative a les mêmes fonctions qu'une VHF fixe.",
+    "answers": [
+      "Vrai.",
+      "Faux."
+    ],
+    "correct": [
+      "Vrai."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_vhf/q96.jpg"
+  },
+  {
+    "section": "VHF",
+    "question": "Je capte un message de détresse sur le réseau des informations nautiques :",
+    "answers": [
+      "j'accuse immédiatement la réception.",
+      "j'attends qu'une station terrestre réponde."
+    ],
+    "correct": [
+      "j'attends qu'une station terrestre réponde."
+    ]
+  },
+  {
+    "section": "VHF",
+    "question": "À quelle puissance maximum devez-vous utiliser votre VHF ?",
+    "answers": [
+      "1 watt.",
+      "6 watts.",
+      "25 watts."
+    ],
+    "correct": [
+      "1 watt."
+    ]
+  },
+  {
+    "section": "VHF",
+    "question": "Comment épelez-vous le nom du navire COBALT ?",
+    "answers": [
+      "Charlie - Orlando - Bravo - Alfa - Lima - Tatie",
+      "Charlie - Octave - Bravo - Alfa - Limoux - Tata",
+      "Charlie - Oscar - Bravo - Alfa - Lima - Tango"
+    ],
+    "correct": [
+      "Charlie - Oscar - Bravo - Alfa - Lima - Tango"
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_vhf/q161.png"
+  },
+  {
+    "section": "VHF",
+    "question": "En SIMPLEX, Pouvez-vous entendre votre correspondant si la touche PTT est maintenue enfoncée ?",
+    "answers": [
+      "Oui.",
+      "Non."
+    ],
+    "correct": [
+      "Non."
+    ]
+  },
+  {
+    "section": "VHF",
+    "question": "Classez les messages de sécurité dans leur ordre de priorité (en commençant par le plus prioritaire).",
+    "answers": [
+      "1/SÉCURITÉ, 2/PAN PAN, 3/MAYDAY",
+      "1/MAYDAY, 2/PAN PAN, 3/SÉCURITÉ",
+      "1/PAN PAN, 2/SÉCURITÉ, 3/MAYDAY"
+    ],
+    "correct": [
+      "1/MAYDAY, 2/PAN PAN, 3/SÉCURITÉ"
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/corrections/RC/rc97.png"
+  },
+  {
+    "section": "VHF",
+    "question": "Quel est le message vhf approprié à cette situation ?",
+    "answers": [
+      "MAYDAY.",
+      "PAN PAN.",
+      "SÉCURITÉ."
+    ],
+    "correct": [
+      "PAN PAN."
+    ]
+  },
+  {
+    "section": "VHF",
+    "question": "Quelle est la différence primordiale pour votre sécurité entre une vhf et un téléphone portable ?",
+    "answers": [
+      "Une communication vhf est gratuite.",
+      "La vhf permet d'alerter toutes les personnes qui assurent la veille d'un seul coup.",
+      "Le téléphone portable est préférable car il permet d'alerter uniquement la bonne personne sans déranger tout le monde."
+    ],
+    "correct": [
+      "La vhf permet d'alerter toutes les personnes qui assurent la veille d'un seul coup."
+    ]
+  },
+  {
+    "section": "VHF",
+    "question": "Sur un canal simplex, les 2 correspondants peuvent-ils parler simultanément ?",
+    "answers": [
+      "Oui.",
+      "Non, il faut parler en alternance."
+    ],
+    "correct": [
+      "Non, il faut parler en alternance."
+    ]
+  },
+  {
+    "section": "VHF",
+    "question": "Le système ATIS est obligatoire :",
+    "answers": [
+      "uniquement dans les ports.",
+      "en mer.",
+      "en mer et sur les voies d'eau intérieures.",
+      "uniquement sur les voies d'eau intérieures."
+    ],
+    "correct": [
+      "uniquement sur les voies d'eau intérieures."
+    ]
+  },
+  {
+    "section": "VHF",
+    "question": "Votre message radio commence par :",
+    "answers": [
+      "PAN PAN.",
+      "MAYDAY.",
+      "SECURITE.",
+      "INFORMATION."
+    ],
+    "correct": [
+      "SECURITE."
+    ]
+  },
+  {
+    "section": "VHF",
+    "question": "Comment épelez-vous le mot MARIO ?",
+    "answers": [
+      "Marie - Alfa - Romeo - Ines - Oscar",
+      "Mike - Alfa - Romeo - India - Oscar",
+      "Mike - Alfa - Ramon - Ines - Oscar"
+    ],
+    "correct": [
+      "Mike - Alfa - Romeo - India - Oscar"
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_vhf/q159.png"
+  },
+  {
+    "section": "VHF",
+    "question": "Vous cherchez une aire de stationnement. Quel réseau utilisez-vous ?",
+    "answers": [
+      "Le réseau \"bateau - bateau\".",
+      "Le réseau \"informations nautiques\".",
+      "Le réseau \"bateau - autorités portuaires\".",
+      "Le réseau \"radiocommunications de bord\"."
+    ],
+    "correct": [
+      "Le réseau \"bateau - autorités portuaires\"."
+    ]
+  },
+  {
+    "section": "VHF",
+    "question": "À quel moment le signal ATIS est-il transmis ?",
+    "answers": [
+      "En début de chaque transmission.",
+      "En milieu de transmission.",
+      "En fin de chaque transmission."
+    ],
+    "correct": [
+      "En fin de chaque transmission."
+    ]
+  },
+  {
+    "section": "VHF",
+    "question": "Une vhf portative non ASN a les mêmes fonctions qu'une vhf fixe non ASN.",
+    "answers": [
+      "Vrai.",
+      "Faux."
+    ],
+    "correct": [
+      "Vrai."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_vhf/q96.jpg"
+  },
+  {
+    "section": "VHF",
+    "question": "je dois déclarer la VHF sur la licence radio de chacun des navires.",
+    "answers": [
+      "Vrai.",
+      "Faux."
+    ],
+    "correct": [
+      "Vrai."
+    ]
+  },
+  {
+    "section": "VHF",
+    "question": "Que siginifie le mot anglais OVER entendu lors des communications vocales ?",
+    "answers": [
+      "Homme à la mer.",
+      "Une réponse est attendue (\"À vous\", \"Répondez\").",
+      "La conversation est terminée."
+    ],
+    "correct": [
+      "Une réponse est attendue (\"À vous\", \"Répondez\")."
+    ]
+  },
+  {
+    "section": "VHF",
+    "question": "Comment épelle-t-on la lettre Z en alphabet phonétique ?",
+    "answers": [
+      "Zizou",
+      "Zulu",
+      "Zazie",
+      "Zizette"
+    ],
+    "correct": [
+      "Zulu"
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_vhf/q88.png"
+  },
+  {
+    "section": "VHF",
+    "question": "La touche SCN d'une VHF permet :",
+    "answers": [
+      "d'appeler directement la Société des Communications Nationales (SCN)",
+      "d'émettre un appel de sécurité (Security CommunicatioN).",
+      "de balayer les canaux de façon séquentielle (SCaN)."
+    ],
+    "correct": [
+      "de balayer les canaux de façon séquentielle (SCaN)."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_vhf/q12.png"
+  },
+  {
+    "section": "VHF",
+    "question": "La double veille (Dual Watch) est-elle autorisée en eaux intérieures ?",
+    "answers": [
+      "Oui.",
+      "Non, le système doit être désactivé."
+    ],
+    "correct": [
+      "Non, le système doit être désactivé."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_crr/q57.png"
+  },
+  {
+    "section": "VHF",
+    "question": "dans le code ATIS, vous trouvez :",
+    "answers": [
+      "le n° de série de l'équipement VHF.",
+      "le n° d'immatriculation du bateau.",
+      "l'indicatif d'appel du bateau."
+    ],
+    "correct": [
+      "l'indicatif d'appel du bateau."
+    ]
+  },
+  {
+    "section": "VHF",
+    "question": "Une VHF portative doit-elle être équipée du système ATIS ?",
+    "answers": [
+      "Oui.",
+      "Non, seulement les VHF fixes."
+    ],
+    "correct": [
+      "Oui."
+    ],
+    "imgSrc": "https://www.loisirs-nautic.fr/img/test_vhf/q4.jpg"
+  },
+  {
+    "section": "VHF",
+    "question": "Le système ASN est utilisable :",
+    "answers": [
+      "Dans le domaine maritime uniquement.",
+      "Dans le domaine fluvial uniquement.",
+      "Dans les 2 domaines : fluvial et maritime."
+    ],
+    "correct": [
+      "Dans le domaine maritime uniquement."
+    ]
+  },
+  {
+    "section": "VHF",
+    "question": "Je capte un message de détresse sur le réseau bateau <-> Autorités portuaires :",
+    "answers": [
+      "j'accuse immédiatement réception.",
+      "j'attends que la station terrestre accuse réception.",
+      "je prends la communication si aucun accusé de réception n'est fait dans la minute."
+    ],
+    "correct": [
+      "j'attends que la station terrestre accuse réception.",
+      "je prends la communication si aucun accusé de réception n'est fait dans la minute."
+    ]
+  },
+  {
+    "section": "VHF",
+    "question": "Quels types de VHF sont concernés par le système ATIS ?",
+    "answers": [
+      "Uniquement les VHF portables.",
+      "Uniquement les VHF fixes.",
+      "Les VHF portables et les VHF fixes."
+    ],
+    "correct": [
+      "Les VHF portables et les VHF fixes."
+    ]
+  },
+  {
+    "section": "VHF",
+    "question": "Un canal est qualifié de duplex quand :",
+    "answers": [
+      "L'émission et la réception se font sur la même fréquence.",
+      "on peut parler avec 2 autres personnes en même temps.",
+      "L'émission et la réception se font sur 2 fréquences distinctes."
+    ],
+    "correct": [
+      "L'émission et la réception se font sur 2 fréquences distinctes."
+    ]
+  }
+]
